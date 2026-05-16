@@ -1,0 +1,9 @@
+---
+title: "Publications"
+---
+
+::: {.callout-note appearance="simple"}
+**Scaffold page** — content drafting to come.
+:::
+
+A grouped, linkable list of lab publications will live here.

@@ -1,0 +1,20 @@
+---
+title: "Reuman Lab"
+subtitle: "Quantitative ecology at the University of Kansas"
+toc: false
+---
+
+::: {.callout-note appearance="simple"}
+**Scaffold site.** Plumbing verification only — real content is in progress.
+:::
+
+## What this site will become
+
+A redo of the lab's web presence, with these sections:
+
+- **Research** — current threads (spatial synchrony, species distribution modelling, ML-based agricultural-yield forecasting, asymmetric tail associations, community stability) presented as vignettes with figures.
+- **Software** — `xsdm` and other lab-built R packages, with worked examples.
+- **People** — current members and alumni.
+- **Publications** — paper list.
+- **Opportunities** — for prospective grad students and postdocs.
+- **Teaching** — courses.

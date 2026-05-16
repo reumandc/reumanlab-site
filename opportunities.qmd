@@ -1,0 +1,9 @@
+---
+title: "Opportunities"
+---
+
+::: {.callout-note appearance="simple"}
+**Scaffold page** — content drafting to come.
+:::
+
+Information for prospective graduate students and postdocs will live here.

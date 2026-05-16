@@ -1,0 +1,14 @@
+---
+title: "Software"
+---
+
+::: {.callout-note appearance="simple"}
+**Scaffold page** — content drafting to come.
+:::
+
+This page will showcase R packages developed in the lab, including:
+
+- **`xsdm`** — (CRAN release imminent)
+- Earlier packages from prior projects
+
+Each will have a short description, a worked example, and a link to the GitHub repo.

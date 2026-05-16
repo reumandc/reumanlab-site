@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME
+
+website:
+  title: "Reuman Lab"
+  description: "Quantitative ecology at the University of Kansas"
+  site-url: "https://reumanlab.org"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: software.qmd
+        text: Software
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+      - href: opportunities.qmd
+        text: Opportunities
+      - href: teaching.qmd
+        text: Teaching
+  page-footer:
+    center: "Reuman Lab · Department of Ecology & Evolutionary Biology · Kansas Biological Survey & Center for Ecological Research · University of Kansas"
+
+format:
+  html:
+    theme: cosmo
+    toc: false

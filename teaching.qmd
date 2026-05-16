@@ -1,0 +1,9 @@
+---
+title: "Teaching"
+---
+
+::: {.callout-note appearance="simple"}
+**Scaffold page** — content drafting to come.
+:::
+
+Courses taught will be listed here.

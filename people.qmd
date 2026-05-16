@@ -1,0 +1,9 @@
+---
+title: "People"
+---
+
+::: {.callout-note appearance="simple"}
+**Scaffold page** — content drafting to come.
+:::
+
+Current members, postdocs, students, and alumni will be listed here.
