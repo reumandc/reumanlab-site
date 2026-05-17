@@ -1,20 +1,106 @@
 ---
 title: "Reuman Lab"
-subtitle: "Quantitative ecology at the University of Kansas"
 toc: false
+title-block-style: none
 ---
 
-::: {.callout-note appearance="simple"}
-**Scaffold site.** Plumbing verification only — real content is in progress.
+::: {.column-screen .hero-section}
+::: {.column-body}
+# Reuman Lab
+
+::: {.hero-tagline}
+We use mathematics, statistics, and computation to understand the dynamics of natural populations — where theory meets data, in service of how people share a changing planet with the rest of life.
 :::
 
-## What this site will become
+::: {.hero-followup}
+Some of our work is directly applied; some plays out over decades. All of it confronts theory with data, and refines theory in return.
+:::
+:::
+:::
 
-A redo of the lab's web presence, with these sections:
+## Current research {.current-research-heading}
 
-- **Research** — current threads (spatial synchrony, species distribution modelling, ML-based agricultural-yield forecasting, asymmetric tail associations, community stability) presented as vignettes with figures.
-- **Software** — `xsdm` and other lab-built R packages, with worked examples.
-- **People** — current members and alumni.
-- **Publications** — paper list.
-- **Opportunities** — for prospective grad students and postdocs.
-- **Teaching** — courses.
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.vignette-card}
+::: {.vignette-img}
+climate variability & species distributions
+:::
+::: {.vignette-body}
+#### How does climate variability shape where species live?
+
+Species distribution models almost always treat climate as an average. But for many species, year-to-year variability — heat waves, droughts, the timing of frosts — matters as much as the mean. Our new modelling framework shows that variability can shrink species' ranges by up to 45%, and that future ranges may be just as sensitive to changes in variability as to changes in average climate.
+
+[Read more →](research.qmd#climate-variability){.vignette-readmore}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.vignette-card}
+::: {.vignette-img}
+spatial synchrony
+:::
+::: {.vignette-body}
+#### Why do populations rise and fall in sync across continents?
+
+Populations of the same species — kelp, aphids, salmon, plankton, grasslands — often fluctuate in lockstep across hundreds or thousands of kilometers. Two decades of work in the lab has dissected this synchrony along three statistical dimensions — across timescales, across geography, and in its asymmetries — and used each to uncover both its causes and its consequences for biodiversity and ecosystem function.
+
+[Read more →](research.qmd#synchrony){.vignette-readmore}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.vignette-card}
+::: {.vignette-img}
+agricultural yield forecasting
+:::
+::: {.vignette-body}
+#### Can we forecast crop yields three months before harvest?
+
+Modern farm machinery collects huge amounts of fine-grained yield data, but most farmers can't use it without specialized expertise. We are building machine-learning models that turn that data into actionable mid-season yield forecasts at 20-meter resolution. Prototype models already explain more than 70% of out-of-sample yield variation, and we are gearing up to deliver operational corn-yield forecasts to partner farms ahead of the 2026 harvest.
+
+[Read more →](research.qmd#agricultural-ml){.vignette-readmore}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.vignette-card}
+::: {.vignette-img}
+biodiversity & ecosystem stability
+:::
+::: {.vignette-body}
+#### Why does biodiversity stabilize ecosystems?
+
+Diverse ecosystems tend to be more stable than species-poor ones, but the mechanism has been contested for decades. Working with collaborators, we have shown that much of biodiversity's stabilizing effect comes not from how species interact, but from statistical averaging across species with different dynamics — and that strong perturbations like marine heatwaves can flip those stabilizing effects in surprising ways.
+
+[Read more →](research.qmd#stability){.vignette-readmore}
+:::
+:::
+:::
+
+:::
+
+::: {.column-screen .software-strip-outer}
+::: {.column-body}
+
+### Open-source tools from the lab {.software-strip-title}
+
+::: {.software-pills}
+[**`xsdm`** — species distribution models that account for climate variability](software.qmd#xsdm){.software-pill}
+[**`wsyn`** — wavelet methods for spatial synchrony](software.qmd#wsyn){.software-pill}
+[**`tsvr`** — timescale-specific variance ratios for community stability](software.qmd#tsvr){.software-pill}
+[**`cheddar`** — analysis and visualization of food-web data](software.qmd#cheddar){.software-pill}
+:::
+
+[All software →](software.qmd){.all-software-link}
+
+:::
+:::
+
+::: {.pi-strip}
+**Daniel Reuman** is Professor in the Department of Ecology & Evolutionary Biology and Senior Scientist in the Kansas Biological Survey at the University of Kansas.
+:::
