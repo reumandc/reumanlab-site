@@ -1,7 +1,9 @@
 ---
 title: "Reuman Lab"
 toc: false
-title-block-style: none
+include-in-header:
+  text: |
+    <style>#title-block-header { display: none; }</style>
 ---
 
 ::: {.column-screen .hero-section}
@@ -9,11 +11,11 @@ title-block-style: none
 # Reuman Lab
 
 ::: {.hero-tagline}
-We use mathematics, statistics, and computation to understand the dynamics of natural populations — where theory meets data, in service of how people share a changing planet with the rest of life.
+We use math, statistics, and computation to understand the dynamics of natural populations and improve how people share a changing planet with the rest of life.
 :::
 
 ::: {.hero-followup}
-Some of our work is directly applied; some plays out over decades. All of it confronts theory with data, and refines theory in return.
+Including theory, merging theory with data, applicable work, and applied work.
 :::
 :::
 :::
@@ -30,7 +32,7 @@ climate variability & species distributions
 ::: {.vignette-body}
 #### How does climate variability shape where species live?
 
-Species distribution models almost always treat climate as an average. But for many species, year-to-year variability — heat waves, droughts, the timing of frosts — matters as much as the mean. Our new modelling framework shows that variability can shrink species' ranges by up to 45%, and that future ranges may be just as sensitive to changes in variability as to changes in average climate.
+Species distribution models almost always treat climate as an average. But for many species, year-to-year variability — heat waves, droughts, the timing of frosts — matters as much as the mean. Our new modelling framework shows that variability can shrink species' ranges substantially, and that future ranges may be just as sensitive to changes in variability as to changes in average climate.
 
 [Read more →](research.qmd#climate-variability){.vignette-readmore}
 :::
@@ -39,13 +41,13 @@ Species distribution models almost always treat climate as an average. But for m
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.vignette-card}
-::: {.vignette-img}
-spatial synchrony
+::: {.vignette-img .vignette-img-photo}
+<img src="images/synchrony-aphid-wavelet.png" alt="Wavelet analysis of UK aphid population synchrony alongside the North Atlantic Oscillation">
 :::
 ::: {.vignette-body}
 #### Why do populations rise and fall in sync across continents?
 
-Populations of the same species — kelp, aphids, salmon, plankton, grasslands — often fluctuate in lockstep across hundreds or thousands of kilometers. Two decades of work in the lab has dissected this synchrony along three statistical dimensions — across timescales, across geography, and in its asymmetries — and used each to uncover both its causes and its consequences for biodiversity and ecosystem function.
+Populations of the same species  often fluctuate together across hundreds or thousands of kilometers. Over a decade of work in the lab has dissected this synchrony along three statistical dimensions — across timescales, across geography, and in its asymmetries — and used each to uncover both its causes and its consequences for biodiversity and ecosystem function. We have worked across numerous systems/taxa including kelp forests, marine and freshwater plankton, grasslands, exploited fish species, and crop pests. 
 
 [Read more →](research.qmd#synchrony){.vignette-readmore}
 :::
@@ -58,7 +60,7 @@ Populations of the same species — kelp, aphids, salmon, plankton, grasslands �
 agricultural yield forecasting
 :::
 ::: {.vignette-body}
-#### Can we forecast crop yields three months before harvest?
+#### Can we forecast crop yields prior to harvest?
 
 Modern farm machinery collects huge amounts of fine-grained yield data, but most farmers can't use it without specialized expertise. We are building machine-learning models that turn that data into actionable mid-season yield forecasts at 20-meter resolution. Prototype models already explain more than 70% of out-of-sample yield variation, and we are gearing up to deliver operational corn-yield forecasts to partner farms ahead of the 2026 harvest.
 
@@ -69,13 +71,13 @@ Modern farm machinery collects huge amounts of fine-grained yield data, but most
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.vignette-card}
-::: {.vignette-img}
-biodiversity & ecosystem stability
+::: {.vignette-img .vignette-img-photo}
+<img src="images/stability-mesocosm.jpg" alt="A pond mesocosm experiment used to study how biodiversity affects ecosystem stability">
 :::
 ::: {.vignette-body}
 #### Why does biodiversity stabilize ecosystems?
 
-Diverse ecosystems tend to be more stable than species-poor ones, but the mechanism has been contested for decades. Working with collaborators, we have shown that much of biodiversity's stabilizing effect comes not from how species interact, but from statistical averaging across species with different dynamics — and that strong perturbations like marine heatwaves can flip those stabilizing effects in surprising ways.
+Diverse ecosystems tend to be more stable than species-poor ones. Working with collaborators, we study the mechanisms of this relationship and the effects of climate change on them.
 
 [Read more →](research.qmd#stability){.vignette-readmore}
 :::

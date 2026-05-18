@@ -9,6 +9,11 @@ website:
   description: "Quantitative ecology at the University of Kansas"
   site-url: "https://reumanlab.org"
   navbar:
+    background: light
+    logo: images/logo.svg
+    logo-href: index.qmd
+    logo-alt: "Reuman Lab"
+    title: false
     left:
       - href: index.qmd
         text: Home
