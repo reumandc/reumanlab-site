@@ -3,7 +3,7 @@
   <!-- Wordmark: "Reum" + ladybug (substituting 'a') + "n L" + Greek alpha (outlined) + "b" -->
   <text x="0" y="36"
         font-family="'Source Sans 3','Source Sans Pro',Helvetica,Arial,sans-serif"
-        font-size="34" font-weight="600" fill="currentColor">Reum<tspan dx="24">n L</tspan><tspan dy="-1" fill="white" stroke="currentColor" stroke-width="2.5" paint-order="stroke fill">α</tspan><tspan dy="1">b</tspan></text>
+        font-size="34" font-weight="600" fill="currentColor">Reum<tspan dx="24">n L</tspan><tspan dy="-1" font-size="30" fill="white" stroke="currentColor" stroke-width="2.5" paint-order="stroke fill">α</tspan><tspan dy="1">b</tspan></text>
 
   <!-- Ladybug substituting the 'a' in "Reuman" -->
   <g transform="translate(106.5, 27) scale(0.85)" stroke="currentColor" stroke-linecap="round" fill="none">
