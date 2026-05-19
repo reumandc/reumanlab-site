@@ -20,89 +20,292 @@ Including theory, merging theory with data, applicable work, and applied work.
 :::
 :::
 
-## Current research {.current-research-heading}
+::: {.cards-grid}
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-6}
-::: {.vignette-card}
-::: {.vignette-img}
-climate variability & species distributions
-:::
-::: {.vignette-body}
-#### How does climate variability shape where species live?
-
-Species distribution models almost always treat climate as an average. But for many species, year-to-year variability — heat waves, droughts, the timing of frosts — matters as much as the mean. Our new modelling framework shows that variability can shrink species' ranges substantially, and that future ranges may be just as sensitive to changes in variability as to changes in average climate.
-
-[Read more →](research.qmd#climate-variability){.vignette-readmore}
-:::
-:::
-:::
-
-::: {.g-col-12 .g-col-md-6}
-::: {.vignette-card}
-::: {.vignette-img .vignette-img-photo}
-<img src="images/synchrony-aphid-wavelet.png" alt="Wavelet analysis of UK aphid population synchrony alongside the North Atlantic Oscillation">
-:::
-::: {.vignette-body}
-#### Why do populations rise and fall in sync across continents?
-
-Populations of the same species  often fluctuate together across hundreds or thousands of kilometers. Over a decade of work in the lab has dissected this synchrony along three statistical dimensions — across timescales, across geography, and in its asymmetries — and used each to uncover both its causes and its consequences for biodiversity and ecosystem function. We have worked across numerous systems/taxa including kelp forests, marine and freshwater plankton, grasslands, exploited fish species, and crop pests. 
-
-[Read more →](research.qmd#synchrony){.vignette-readmore}
-:::
-:::
+::: {.card-row}
+<details class="card">
+<summary>
+<span class="card-thumb">xsdm</span>
+<span class="card-question">xsdm: climate variability and species ranges</span>
+</summary>
+<div class="card-body">
+<p>Species distribution models almost always treat climate as an average. Our new modelling framework shows variability constrains species geographic ranges as much as means.</p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+<details class="card">
+<summary>
+<span class="card-thumb">yield</span>
+<span class="card-question">High-resolution crop yield forecasting</span>
+</summary>
+<div class="card-body">
+<p>We are building machine-learning models that make actionable mid-season yield forecasts at 20-meter resolution. Prototype models already explain more than 70% of out-of-sample yield variation.</p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
 :::
 
-::: {.g-col-12 .g-col-md-6}
-::: {.vignette-card}
-::: {.vignette-img}
-agricultural yield forecasting
-:::
-::: {.vignette-body}
-#### Can we forecast crop yields prior to harvest?
-
-Modern farm machinery collects huge amounts of fine-grained yield data, but most farmers can't use it without specialized expertise. We are building machine-learning models that turn that data into actionable mid-season yield forecasts at 20-meter resolution. Prototype models already explain more than 70% of out-of-sample yield variation, and we are gearing up to deliver operational corn-yield forecasts to partner farms ahead of the 2026 harvest.
-
-[Read more →](research.qmd#agricultural-ml){.vignette-readmore}
-:::
-:::
-:::
-
-::: {.g-col-12 .g-col-md-6}
-::: {.vignette-card}
-::: {.vignette-img .vignette-img-photo}
-<img src="images/stability-mesocosm.jpg" alt="A pond mesocosm experiment used to study how biodiversity affects ecosystem stability">
-:::
-::: {.vignette-body}
-#### Why does biodiversity stabilize ecosystems?
-
-Diverse ecosystems tend to be more stable than species-poor ones. Working with collaborators, we study the mechanisms of this relationship and the effects of climate change on them.
-
-[Read more →](research.qmd#stability){.vignette-readmore}
-:::
-:::
+::: {.card-row}
+<details class="card">
+<summary>
+<span class="card-thumb">tails</span>
+<span class="card-question">Asymmetric tail associations in ecology</span>
+</summary>
+<div class="card-body">
+<p>Correlation between variables is more complex than commonly assumed, often including asymmetries which have widespread but seldom appreciated implications across the field of ecology &mdash; and which may also have caused the 2008 housing crisis.</p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+<details class="card">
+<summary>
+<span class="card-thumb">cheddar</span>
+<span class="card-question">cheddar: food-web visualization software</span>
+</summary>
+<div class="card-body">
+<p>R package for analysis and visualisation of food-web data developed by former Reuman lab PhD student Lawrence Hudson while he was in the lab. Downloaded >90K times, cited by >100 scientific papers.</p>
+<p><a class="card-readmore" href="software.qmd">Read more →</a></p>
+</div>
+</details>
 :::
 
+::: {.card-row}
+<details class="card">
+<summary>
+<span class="card-thumb">tsvr</span>
+<span class="card-question">tsvr: timescale-specific variance ratios for community stability</span>
+</summary>
+<div class="card-body">
+<p>R package containing tools for timescale decomposition of the classic variance ratio of community ecology.</p>
+<p><a class="card-readmore" href="software.qmd">Read more →</a></p>
+</div>
+</details>
+<details class="card">
+<summary>
+<span class="card-thumb">wsyn</span>
+<span class="card-question">wsyn: wavelet methods for spatial synchrony</span>
+</summary>
+<div class="card-body">
+<p>R package for implementing wavelet tools for analyzing spatial synchrony, including the wavelet Moran theorem, synchrony attribution theorem, and wavelet linear modelling tools developed in the Reuman lab.</p>
+<p><a class="card-readmore" href="software.qmd">Read more →</a></p>
+</div>
+</details>
 :::
 
-::: {.column-screen .software-strip-outer}
-::: {.column-body}
-
-### Open-source tools from the lab {.software-strip-title}
-
-::: {.software-pills}
-[**`xsdm`** — species distribution models that account for climate variability](software.qmd#xsdm){.software-pill}
-[**`wsyn`** — wavelet methods for spatial synchrony](software.qmd#wsyn){.software-pill}
-[**`tsvr`** — timescale-specific variance ratios for community stability](software.qmd#tsvr){.software-pill}
-[**`cheddar`** — analysis and visualization of food-web data](software.qmd#cheddar){.software-pill}
+::: {.card-row}
+<details class="card">
+<summary>
+<span class="card-thumb">density</span>
+<span class="card-question">Sublinearity of density dependence</span>
+</summary>
+<div class="card-body">
+<p>Population growth is primarily inhibited by processes other than resource depletion, leaving a sublinear signature across species.</p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+<details class="card">
+<summary>
+<span class="card-thumb">stability</span>
+<span class="card-question">Collaborative: mechanisms of community stability</span>
+</summary>
+<div class="card-body">
+<p>Diverse ecosystems tend to be more stable than species-poor ones. Working with collaborators, we study the mechanisms of this relationship and the effects of climate change on them.</p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
 :::
 
-[All software →](software.qmd){.all-software-link}
-
+::: {.card-row}
+<details class="card">
+<summary>
+<span class="card-thumb">sturgeon</span>
+<span class="card-question">Telemetry and sturgeon movements</span>
+</summary>
+<div class="card-body">
+<p>We have worked with large telemetry datasets to study the movements of sturgeon and other fish species in California rivers.</p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+<details class="card">
+<summary>
+<span class="card-thumb">marine</span>
+<span class="card-question">Synchrony of marine fish populations</span>
+</summary>
+<div class="card-body">
+<p>Climate change could amplify weak synchrony in large marine ecosystems. Former lab postdoc Vadim Karatayev studied marine fish populations using empirical dynamic models.</p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
 :::
+
+::: {.card-row}
+<details class="card">
+<summary>
+<span class="card-thumb">review</span>
+<span class="card-question">Review: insights into synchrony through long-term data</span>
+</summary>
+<div class="card-body">
+<p>We advocate strongly for the benefits of long-term ecological monitoring and large ecological datasets. This review highlights developments in studies of synchrony over the past 20 years and how they were enabled by long-term datasets.</p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+<details class="card">
+<summary>
+<span class="card-thumb">pests</span>
+<span class="card-question">Collaborative: synchrony in pests and disease vectors</span>
+</summary>
+<div class="card-body">
+<p>With collaborators, we have studied synchrony in mosquitoes and lepidopteran crop pests.</p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+:::
+
+::: {.card-row}
+<details class="card">
+<summary>
+<span class="card-thumb">cascades</span>
+<span class="card-question">Synchrony cascades across system boundaries</span>
+</summary>
+<div class="card-body">
+<p>Former lab postdoc Jon Walter showed how synchrony can cascade across ecosystem boundaries and up food webs. Former lab postdoc Tom Anderson showed how synchrony cascades from environmental drivers to deer to deer-vehicle collisions.</p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+<details class="card">
+<summary>
+<span class="card-thumb">drivers</span>
+<span class="card-question">A theory explaining how drivers of spatial synchrony interact</span>
+</summary>
+<div class="card-body">
+<p>We developed a theory of interaction effects in Moran drivers of spatial synchrony, and tested it in plankton and kelp.</p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+:::
+
+::: {.card-row}
+<details class="card">
+<summary>
+<span class="card-thumb">kelp</span>
+<span class="card-question">Drivers of synchrony in giant kelp forests</span>
+</summary>
+<div class="card-body">
+<p>A long-term project studying synchrony in giant kelp across thousands of km of coastline revealed the environmental and dispersive drivers of kelp synchrony.</p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+<details class="card">
+<summary>
+<span class="card-thumb">timescale</span>
+<span class="card-question">Timescale structure of synchrony</span>
+</summary>
+<div class="card-body">
+<p>One long-term theme of studies of synchrony in the lab has been the timescale structure of synchrony. Paying attention to timescale structure allows for much improved inferences of causes and understanding of consequences of synchrony.</p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+:::
+
+::: {.card-row}
+<details class="card">
+<summary>
+<span class="card-thumb">geography</span>
+<span class="card-question">Geography of synchrony</span>
+</summary>
+<div class="card-body">
+<p>One long-term theme of studies of synchrony in the lab has been its geographic structure. Paying attention to the geography of synchrony allows for much improved inferences of causes and understanding of consequences of synchrony.</p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+<details class="card">
+<summary>
+<span class="card-thumb">climate</span>
+<span class="card-question">Climate change and changes in synchrony</span>
+</summary>
+<div class="card-body">
+<p>We contributed some of the early work that shows changes in synchrony are another of the major effects of climate change.</p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+:::
+
+::: {.card-row}
+<details class="card">
+<summary>
+<span class="card-thumb">cicadas</span>
+<span class="card-question">Synchrony in periodic cicada choruses</span>
+</summary>
+<div class="card-body">
+<p>Periodic cicadas emerged with a vengeance where we live. So we <em>had</em> to study synchrony in their relentless calls while we had the chance.</p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+<details class="card">
+<summary>
+<span class="card-thumb">warming</span>
+<span class="card-question">Geothermal streams and whole-community effects of warming</span>
+</summary>
+<div class="card-body">
+<p>Naturally heated streams in Iceland and pond mesocosms have served as experimental systems for asking how warming reshapes whole ecological communities.<sup>(draft — please refine)</sup></p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+:::
+
+::: {.card-row}
+<details class="card">
+<summary>
+<span class="card-thumb">body size</span>
+<span class="card-question">Applications and implications of body-size scaling in communities</span>
+</summary>
+<div class="card-body">
+<p>Body-size relationships among species scale into community-level patterns, with implications for how we sample, model, and reason about whole ecosystems.<sup>(draft — please refine)</sup></p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+<details class="card">
+<summary>
+<span class="card-thumb">invasive</span>
+<span class="card-question">Invasive species</span>
+</summary>
+<div class="card-body">
+<p>We have used population-genetic and demographic approaches to study invasive species, including American grey squirrels.<sup>(draft — please refine)</sup></p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+:::
+
+::: {.card-row}
+<details class="card">
+<summary>
+<span class="card-thumb">fragmentation</span>
+<span class="card-question">Collaborative: history of habitat fragmentation</span>
+</summary>
+<div class="card-body">
+<p>With collaborators, we have studied the long-term ecological consequences of historical habitat fragmentation, including the concept of extinction debt.<sup>(draft — please refine)</sup></p>
+<p><a class="card-readmore" href="research.qmd">Read more →</a></p>
+</div>
+</details>
+:::
+
 :::
 
 ::: {.pi-strip}
 **Daniel Reuman** is Professor in the Department of Ecology & Evolutionary Biology and Senior Scientist in the Kansas Biological Survey at the University of Kansas.
 :::
+
+```{=html}
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('details.card').forEach(d => {
+      d.addEventListener('toggle', () => {
+        if (d.open) {
+          document.querySelectorAll('details.card[open]').forEach(other => {
+            if (other !== d) other.open = false;
+          });
+        }
+      });
+    });
+  });
+</script>
+```
