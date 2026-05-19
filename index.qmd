@@ -11,7 +11,7 @@ include-in-header:
 # Reuman Lab
 
 ::: {.hero-tagline}
-We use math, statistics, and computation to understand the dynamics of natural populations and improve how people share a changing planet with the rest of life.
+We use math, statistics, and computation to understand the dynamics of natural populations and try to improve how people share a changing planet with the rest of life.
 :::
 
 ::: {.hero-followup}
