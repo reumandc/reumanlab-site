@@ -1,0 +1,17 @@
+---
+title: "Synchrony cascades across system boundaries"
+slug: cascades
+category: research
+order: 13
+home: true
+card-size: narrow
+card-thumb-label: "cascades"
+card-summary: "Synchrony cascades across system boundaries"
+card-detail: |
+  Former lab postdoc Jon Walter showed how synchrony can cascade across ecosystem boundaries and up food webs. Former lab postdoc Tom Anderson showed how synchrony cascades from environmental drivers to deer to deer-vehicle collisions.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

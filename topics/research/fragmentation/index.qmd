@@ -1,0 +1,17 @@
+---
+title: "Collaborative: history of habitat fragmentation"
+slug: fragmentation
+category: research
+order: 23
+home: true
+card-size: full
+card-thumb-label: "fragmentation"
+card-summary: "Collaborative: history of habitat fragmentation"
+card-detail: |
+  With collaborators, we have studied the long-term ecological consequences of historical habitat fragmentation, including the concept of extinction debt.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

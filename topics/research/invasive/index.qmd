@@ -1,0 +1,17 @@
+---
+title: "Invasive species"
+slug: invasive
+category: research
+order: 22
+home: true
+card-size: narrow
+card-thumb-label: "invasive"
+card-summary: "Invasive species"
+card-detail: |
+  We have used population-genetic and demographic approaches to study invasive species, including American grey squirrels.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

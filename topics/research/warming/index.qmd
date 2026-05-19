@@ -1,0 +1,17 @@
+---
+title: "Geothermal streams and whole-community effects of warming"
+slug: warming
+category: research
+order: 20
+home: true
+card-size: wide
+card-thumb-label: "warming"
+card-summary: "Geothermal streams and whole-community effects of warming"
+card-detail: |
+  Naturally heated streams in Iceland and pond mesocosms have served as experimental systems for asking how warming reshapes whole ecological communities.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

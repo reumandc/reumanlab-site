@@ -1,0 +1,17 @@
+---
+title: "High-resolution crop yield forecasting"
+slug: yield
+category: research
+order: 2
+home: true
+card-size: narrow
+card-thumb-label: "yield"
+card-summary: "High-resolution crop yield forecasting"
+card-detail: |
+  We are building machine-learning models that make actionable mid-season yield forecasts at 20-meter resolution. Prototype models already explain more than 70% of out-of-sample yield variation.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

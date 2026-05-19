@@ -1,0 +1,17 @@
+---
+title: "wsyn: wavelet methods for spatial synchrony"
+slug: wsyn
+category: software
+order: 6
+home: true
+card-size: narrow
+card-thumb-label: "wsyn"
+card-summary: "wsyn: wavelet methods for spatial synchrony"
+card-detail: |
+  R package for implementing wavelet tools for analyzing spatial synchrony, including the wavelet Moran theorem, synchrony attribution theorem, and wavelet linear modelling tools developed in the Reuman lab.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Software-page content to be drafted. -->

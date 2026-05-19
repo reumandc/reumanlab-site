@@ -1,0 +1,17 @@
+---
+title: "cheddar: food-web visualization software"
+slug: cheddar
+category: software
+order: 4
+home: true
+card-size: wide
+card-thumb-label: "cheddar"
+card-summary: "cheddar: food-web visualization software"
+card-detail: |
+  R package for analysis and visualisation of food-web data developed by former Reuman lab PhD student Lawrence Hudson while he was in the lab. Downloaded >90K times, cited by >100 scientific papers.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Software-page content to be drafted. -->

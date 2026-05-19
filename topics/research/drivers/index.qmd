@@ -1,0 +1,17 @@
+---
+title: "A theory explaining how drivers of spatial synchrony interact"
+slug: drivers
+category: research
+order: 14
+home: true
+card-size: wide
+card-thumb-label: "drivers"
+card-summary: "A theory explaining how drivers of spatial synchrony interact"
+card-detail: |
+  We developed a theory of interaction effects in Moran drivers of spatial synchrony, and tested it in plankton and kelp.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

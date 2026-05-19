@@ -1,0 +1,17 @@
+---
+title: "Telemetry and sturgeon movements"
+slug: sturgeon
+category: research
+order: 9
+home: true
+card-size: narrow
+card-thumb-label: "sturgeon"
+card-summary: "Telemetry and sturgeon movements"
+card-detail: |
+  We have worked with large telemetry datasets to study the movements of sturgeon and other fish species in California rivers.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

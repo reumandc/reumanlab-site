@@ -1,0 +1,17 @@
+---
+title: "Collaborative: synchrony in pests and disease vectors"
+slug: pests
+category: research
+order: 12
+home: true
+card-size: narrow
+card-thumb-label: "pests"
+card-summary: "Collaborative: synchrony in pests and disease vectors"
+card-detail: |
+  With collaborators, we have studied synchrony in mosquitoes and lepidopteran crop pests.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

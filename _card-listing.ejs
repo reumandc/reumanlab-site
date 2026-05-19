@@ -1,0 +1,57 @@
+<%
+// Custom card listing for Reuman Lab site.
+// Renders the items array as a grid of <details> cards, pairing them into rows of 2
+// (or rows of 1 when card-size is "full" or at an odd tail), with a cycling jitter
+// width applied to each row to break up the boxy grid look.
+
+const jitter = [92, 86, 98, 88, 95, 89, 84, 96, 91, 87, 94, 85];
+
+// Items are scoped/filtered upstream via the listing config in each .qmd
+// (contents glob + optional include:). The template renders whatever it gets.
+const displayItems = items;
+
+const rows = [];
+let i = 0;
+while (i < displayItems.length) {
+  const a = displayItems[i];
+  if (a['card-size'] === 'full') {
+    rows.push([a]);
+    i += 1;
+  } else {
+    const b = displayItems[i + 1];
+    if (b && b['card-size'] !== 'full') {
+      rows.push([a, b]);
+      i += 2;
+    } else {
+      rows.push([a]);
+      i += 1;
+    }
+  }
+}
+%>
+
+<% if (rows.length === 0) { %>
+<p><em>No topics yet.</em></p>
+<% } else { %>
+<div class="cards-grid">
+<% rows.forEach((row, idx) => { %>
+<div class="card-row" style="--row-width: <%= jitter[idx % jitter.length] %>%;">
+<% row.forEach(it => {
+     const size = it['card-size'] || '';
+     const sizeClass = size ? ('card-' + size) : '';
+%>
+<details class="card <%= sizeClass %>">
+<summary>
+<span class="card-thumb"><%= it['card-thumb-label'] || '' %></span>
+<span class="card-question"><%- it['card-summary'] || it.title || '' %></span>
+</summary>
+<div class="card-body">
+<p><%- it['card-detail'] || '' %></p>
+<p><a class="card-readmore" href="<%= it.path %>">Read more →</a></p>
+</div>
+</details>
+<% }); %>
+</div>
+<% }); %>
+</div>
+<% } %>

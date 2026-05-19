@@ -1,9 +1,16 @@
 ---
 title: "Teaching"
+listing:
+  - id: teaching-cards
+    contents: "topics/teaching/*/index.qmd"
+    type: custom
+    template: _card-listing.ejs
+    sort: "order asc"
+    page-size: 100
+    categories: false
+    feed: false
+    fields: [title, card-summary, card-detail, card-size, card-thumb-label, home, category, order, path]
 ---
 
-::: {.callout-note appearance="simple"}
-**Scaffold page** — content drafting to come.
+::: {#teaching-cards}
 :::
-
-Courses taught will be listed here.

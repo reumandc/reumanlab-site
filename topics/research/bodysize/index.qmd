@@ -1,0 +1,17 @@
+---
+title: "Applications and implications of body-size scaling in communities"
+slug: bodysize
+category: research
+order: 21
+home: true
+card-size: wide
+card-thumb-label: "body size"
+card-summary: "Applications and implications of body-size scaling in communities"
+card-detail: |
+  Body-size relationships among species scale into community-level patterns, with implications for how we sample, model, and reason about whole ecosystems.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

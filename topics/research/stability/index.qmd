@@ -1,0 +1,17 @@
+---
+title: "Collaborative: mechanisms of community stability"
+slug: stability
+category: research
+order: 8
+home: true
+card-size: wide
+card-thumb-label: "stability"
+card-summary: "Collaborative: mechanisms of community stability"
+card-detail: |
+  Diverse ecosystems tend to be more stable than species-poor ones. Working with collaborators, we study the mechanisms of this relationship and the effects of climate change on them.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

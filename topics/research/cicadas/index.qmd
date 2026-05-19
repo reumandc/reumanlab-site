@@ -1,0 +1,17 @@
+---
+title: "Synchrony in periodic cicada choruses"
+slug: cicadas
+category: research
+order: 19
+home: true
+card-size: narrow
+card-thumb-label: "cicadas"
+card-summary: "Synchrony in periodic cicada choruses"
+card-detail: |
+  Periodic cicadas emerged with a vengeance where we live. So we *had* to study synchrony in their relentless calls while we had the chance.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

@@ -1,0 +1,17 @@
+---
+title: "Drivers of synchrony in giant kelp forests"
+slug: kelp
+category: research
+order: 15
+home: true
+card-size: wide
+card-thumb-label: "kelp"
+card-summary: "Drivers of synchrony in giant kelp forests"
+card-detail: |
+  A long-term project studying synchrony in giant kelp across thousands of km of coastline revealed the environmental and dispersive drivers of kelp synchrony.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

@@ -1,0 +1,17 @@
+---
+title: "tsvr: timescale-specific variance ratios for community stability"
+slug: tsvr
+category: software
+order: 5
+home: true
+card-size: wide
+card-thumb-label: "tsvr"
+card-summary: "tsvr: timescale-specific variance ratios for community stability"
+card-detail: |
+  R package containing tools for timescale decomposition of the classic variance ratio of community ecology.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Software-page content to be drafted. -->

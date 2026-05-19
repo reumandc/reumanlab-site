@@ -1,0 +1,17 @@
+---
+title: "Review: insights into synchrony through long-term data"
+slug: review
+category: research
+order: 11
+home: true
+card-size: wide
+card-thumb-label: "review"
+card-summary: "Review: insights into synchrony through long-term data"
+card-detail: |
+  We advocate strongly for the benefits of long-term ecological monitoring and large ecological datasets. This review highlights developments in studies of synchrony over the past 20 years and how they were enabled by long-term datasets.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

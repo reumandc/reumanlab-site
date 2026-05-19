@@ -1,14 +1,16 @@
 ---
 title: "Software"
+listing:
+  - id: software-cards
+    contents: "topics/software/*/index.qmd"
+    type: custom
+    template: _card-listing.ejs
+    sort: "order asc"
+    page-size: 100
+    categories: false
+    feed: false
+    fields: [title, card-summary, card-detail, card-size, card-thumb-label, home, category, order, path]
 ---
 
-::: {.callout-note appearance="simple"}
-**Scaffold page** — content drafting to come.
+::: {#software-cards}
 :::
-
-This page will showcase R packages developed in the lab, including:
-
-- **`xsdm`** — (CRAN release imminent)
-- Earlier packages from prior projects
-
-Each will have a short description, a worked example, and a link to the GitHub repo.

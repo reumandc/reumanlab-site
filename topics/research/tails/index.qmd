@@ -1,0 +1,17 @@
+---
+title: "Asymmetric tail associations in ecology"
+slug: tails
+category: research
+order: 3
+home: true
+card-size: narrow
+card-thumb-label: "tails"
+card-summary: "Asymmetric tail associations in ecology"
+card-detail: |
+  Correlation between variables is more complex than commonly assumed, often including asymmetries which have widespread but seldom appreciated implications across the field of ecology — and which may also have caused the 2008 housing crisis.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

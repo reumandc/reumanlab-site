@@ -1,0 +1,17 @@
+---
+title: "Timescale structure of synchrony"
+slug: timescale
+category: research
+order: 16
+home: true
+card-size: narrow
+card-thumb-label: "timescale"
+card-summary: "Timescale structure of synchrony"
+card-detail: |
+  One long-term theme of studies of synchrony in the lab has been the timescale structure of synchrony. Paying attention to timescale structure allows for much improved inferences of causes and understanding of consequences of synchrony.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

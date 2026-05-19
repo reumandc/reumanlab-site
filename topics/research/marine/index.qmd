@@ -1,0 +1,17 @@
+---
+title: "Synchrony of marine fish populations"
+slug: marine
+category: research
+order: 10
+home: true
+card-size: wide
+card-thumb-label: "marine"
+card-summary: "Synchrony of marine fish populations"
+card-detail: |
+  Climate change could amplify weak synchrony in large marine ecosystems. Former lab postdoc Vadim Karatayev studied marine fish populations using empirical dynamic models.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

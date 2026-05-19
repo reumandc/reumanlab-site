@@ -1,15 +1,16 @@
 ---
 title: "Research"
+listing:
+  - id: research-cards
+    contents: "topics/research/*/index.qmd"
+    type: custom
+    template: _card-listing.ejs
+    sort: "order asc"
+    page-size: 100
+    categories: false
+    feed: false
+    fields: [title, card-summary, card-detail, card-size, card-thumb-label, home, category, order, path]
 ---
 
-::: {.callout-note appearance="simple"}
-**Scaffold page** — content drafting to come.
+::: {#research-cards}
 :::
-
-This page will hold vignettes for the lab's current research threads:
-
-- Spatial synchrony across hierarchical ecological systems
-- Demography and species distribution models
-- Machine-learning-based forecasts of agricultural yields
-- Asymmetric tail associations
-- Community stability and synchrony

@@ -229,8 +229,9 @@ h2.current-research-heading {
 .card-row {
   display: flex;
   gap: 1rem;
-  margin-bottom: 1rem;
+  margin: 0 auto 1rem auto;
   align-items: stretch;
+  width: var(--row-width, 100%);
 }
 
 /* Apply width modifier classes inside a row to make pairs unequal:
@@ -319,6 +320,9 @@ details.card > summary::marker { content: ""; }
 /* When a card is open, hide its row-siblings so the open card has the full row.
    Only on desktop — on mobile, rows already collapse to single column. */
 @media (min-width: 769px) {
+  .card-row:has(details.card[open]) {
+    width: 100%;
+  }
   .card-row:has(details.card[open]) details.card:not([open]) {
     display: none;
   }

@@ -1,0 +1,15 @@
+<script>
+  // Auto-close other open cards when one is opened, so at most one card body
+  // is expanded at a time. Loaded site-wide via _quarto.yml include-after-body.
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('details.card').forEach(d => {
+      d.addEventListener('toggle', () => {
+        if (d.open) {
+          document.querySelectorAll('details.card[open]').forEach(other => {
+            if (other !== d) other.open = false;
+          });
+        }
+      });
+    });
+  });
+</script>

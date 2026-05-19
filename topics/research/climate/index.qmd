@@ -1,0 +1,17 @@
+---
+title: "Climate change and changes in synchrony"
+slug: climate
+category: research
+order: 18
+home: true
+card-size: wide
+card-thumb-label: "climate"
+card-summary: "Climate change and changes in synchrony"
+card-detail: |
+  We contributed some of the early work that shows changes in synchrony are another of the major effects of climate change.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+---
+
+<!-- Research-page content to be drafted. -->

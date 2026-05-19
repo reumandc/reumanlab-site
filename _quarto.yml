@@ -37,3 +37,4 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    include-after-body: card-toggle.html
