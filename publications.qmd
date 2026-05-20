@@ -1,9 +1,6 @@
 ---
 title: "Publications"
+banner: "banners/bird.jpg"
 ---
 
-::: {.callout-note appearance="simple"}
-**Scaffold page** — content drafting to come.
-:::
-
-A grouped, linkable list of lab publications will live here.
+A current and mostly complete list of lab publications lives on Dan's [Google Scholar profile](https://scholar.google.com/citations?user=dyBEUd4AAAAJ&hl=en), which links out to most papers.

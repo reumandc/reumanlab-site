@@ -3,7 +3,7 @@ title: "Applications and implications of body-size scaling in communities"
 slug: bodysize
 category: research
 order: 21
-home: true
+home: false
 card-size: wide
 card-thumb-label: "body size"
 card-summary: "Applications and implications of body-size scaling in communities"
@@ -12,6 +12,8 @@ card-detail: |
 thumbnail: ""
 figure: ""
 figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
 ---
 
 <!-- Research-page content to be drafted. -->

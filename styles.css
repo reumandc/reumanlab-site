@@ -45,6 +45,25 @@ nav.navbar .nav-link.active {
    ones). Since the body is quarto-light, Quarto's own rules already
    show the correct one — don't override. */
 
+/* === Page banner ===
+   Shown above the page title on subpages that set `banner:` in YAML.
+   Implemented via the custom title-block.html partial. */
+
+.page-banner {
+  width: 100%;
+  max-height: 220px;
+  overflow: hidden;
+  margin: 0 0 1.5rem 0;
+  border-radius: 6px;
+}
+
+.page-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
 /* === Hero === */
 
 .hero-section {
@@ -245,6 +264,13 @@ details.card {
   border-radius: 8px;
   overflow: hidden;
   transition: box-shadow 0.2s, transform 0.2s;
+  /* Cards in a row stretch to the tallest sibling's height. Without this,
+     the summary content sits at the top and leaves empty space below.
+     Making each card a flex column with justify-content: center pushes
+     the summary (thumb + text) to the vertical middle of the card. */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 details.card.card-wide   { flex: 1.5 1 0; }
@@ -261,7 +287,7 @@ details.card[open]:hover {
 
 details.card > summary {
   cursor: pointer;
-  padding: 0.75rem;
+  padding: 0.5rem;
   display: flex;
   gap: 0.75rem;
   align-items: center;
@@ -287,6 +313,11 @@ details.card > summary::marker { content: ""; }
   padding: 0.25rem;
   line-height: 1.1;
   overflow: hidden;
+  /* Optical-center nudge: thumb's geometric center matches text's line-box
+     center, but a circular/rounded thumb usually looks slightly high next to
+     text. Increase `top` to push thumb further down; set to 0 to disable. */
+  position: relative;
+  top: 7px;
 }
 
 .card-thumb.has-image {
@@ -456,6 +487,46 @@ details.card > summary::marker { content: ""; }
   .person-photo {
     width: 100px;
     height: 100px;
+  }
+}
+
+/* === Topic-page figure placement & sizing ===
+   Driven by figure-placement and figure-size YAML fields in each topic file,
+   processed by topic-figure.lua. Width is set inline as a percentage. */
+
+.topic-figure {
+  margin-bottom: 1rem;
+}
+
+.topic-figure-top {
+  margin: 0 auto 1.5rem auto;
+}
+
+.topic-figure-bottom {
+  margin: 1.5rem auto 0 auto;
+}
+
+.topic-figure-left {
+  float: left;
+  margin: 0 1.25rem 0.75rem 0;
+}
+
+.topic-figure-right {
+  float: right;
+  margin: 0 0 0.75rem 1.25rem;
+}
+
+.topic-figure-clearfix {
+  clear: both;
+}
+
+/* On narrow screens, float layouts crowd the text — collapse to full-width. */
+@media (max-width: 600px) {
+  .topic-figure-left,
+  .topic-figure-right {
+    float: none;
+    width: 100% !important;
+    margin: 0 auto 1rem auto;
   }
 }
 

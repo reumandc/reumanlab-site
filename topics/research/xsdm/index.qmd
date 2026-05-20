@@ -12,10 +12,12 @@ card-detail: |
 thumbnail: "cynomys-ludovicianus.svg"
 figure: "method_schematic.png"
 figure-caption: "Schematic diagram of the xsdm method/model. See the reference for details."
+figure-placement: "right"
+figure-size: 0.5
 ---
 
 A central concern of biodiversity science is how climate change is reshaping where species live. Most of the quantitative work on this question relies on species distribution models (SDMs) that link species occurrence records to long-term climatic averages such as 30-year mean temperature or precipitation. By construction, these models assume that the typical climate at a location determines whether a species can persist there. Demographers know this is incomplete: populations experience year-to-year climatic fluctuations, and unfavourable years compound multiplicatively in population dynamics, so the variance and tail behavior of climate matter at least as much as the mean. The xsdm project is: 1) a conceptualization of how to integrate demography into SDMs while retaining computational tractability; 2) a hiercharchy of statistical models; 3) an R package implementing the approach; 3) applications and papers; 4) a growing group of collaborators applying xsdm and beginning to think about how best to translate new understanding from xsdm into conservation practice. 
 
-People: Angel Robles Fernandez, Dan Reuman, Emilio Berti
+People: [Angel Robles Fernandez](../../../people.qmd#angel-robles), Dan Reuman
 
 E. Berti, A.L. Robles Fernández. B. Rosenbaum, Townsend A. Peterson, Jorge Soberón, D.C. Reuman. The impacts of climate variability on the niche concept and distributions of species. [Preprint](https://www.biorxiv.org/content/10.1101/2024.10.30.621023v2).

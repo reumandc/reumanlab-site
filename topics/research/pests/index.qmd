@@ -3,7 +3,7 @@ title: "Collaborative: synchrony in pests and disease vectors"
 slug: pests
 category: research
 order: 12
-home: true
+home: false
 card-size: narrow
 card-thumb-label: "pests"
 card-summary: "Collaborative: synchrony in pests and disease vectors"
@@ -12,6 +12,8 @@ card-detail: |
 thumbnail: ""
 figure: ""
 figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
 ---
 
 <!-- Research-page content to be drafted. -->

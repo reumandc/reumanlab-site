@@ -1,0 +1,37 @@
+---
+title: "CHMBE: Coastal-Heartland Marine Biology Exchange"
+slug: chmbe
+category: teaching
+order: 5
+home: false
+card-size: wide
+card-thumb-label: "CHMBE"
+card-summary: "CHMBE: Coastal-Heartland Marine Biology Exchange"
+card-detail: |
+  A ten-week NSF-funded summer Research Experience for Undergraduates that paired hands-on marine fieldwork at Woods Hole Oceanographic Institute (year 1) or the University of Virginia or UC Santa Barbara (year 2) with statistical-ecology training at KU. Dan co-directed the program with Tom Bell in year 1 and Max Castorani (UVA) and Kyle Emery (UCSB) in year 2. 
+thumbnail: "thumb.jpg"
+figure: "pic.jpg"
+figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
+---
+
+The Coastal-Heartland Marine Biology Exchange (CHMBE) was an NSF-funded Research Experience for Undergraduates that Dan co-directed with Tom Bell (Woods Hole Oceanographic Institute) and Max Castorani (University of Virginia) and Kyle Emery (UC Santa Barbara). Each summer, 2–4 undergraduates spent ten weeks working across two institutions and one major scientific meeting (the Ecological Society of America meeting).
+
+## Program structure
+
+Each cohort moved through three phases:
+
+1. **Five weeks of hands-on marine biology**. Students got direct exposure to marine systems and how marine data are collected.
+2. **Four weeks at KU**. Students learned data-analytic approaches and applied them to data from marine systems, carrying out an independent research project with support from program staff.
+3. **One week at the annual meeting of the Ecological Society of America**. Student got broad exposure to the field and presented aspects of their work.
+
+## Past cohorts
+
+Two students participated in summer 2023; four in summer 2024. The 2024 CHMBE alumni appear on the [People](../../../people.qmd) page.
+
+## Partner institutions
+
+- [UVA Environmental Sciences](https://evsc.as.virginia.edu/) · [Virginia Coast Reserve LTER](https://www.vcrlter.virginia.edu/)
+- [UCSB Marine Science Institute](https://msi.ucsb.edu/) · [Santa Barbara Channel LTER](https://sbclter.msi.ucsb.edu/)
+- [KU Department of Ecology and Evolutionary Biology](https://eeb.ku.edu/) · [KU Center for Ecological Research](https://biosurvey.ku.edu/)

@@ -3,8 +3,8 @@ title: "Collaborative: history of habitat fragmentation"
 slug: fragmentation
 category: research
 order: 23
-home: true
-card-size: full
+home: false
+card-size: wide
 card-thumb-label: "fragmentation"
 card-summary: "Collaborative: history of habitat fragmentation"
 card-detail: |
@@ -12,6 +12,8 @@ card-detail: |
 thumbnail: ""
 figure: ""
 figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
 ---
 
 <!-- Research-page content to be drafted. -->

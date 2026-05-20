@@ -3,7 +3,7 @@ title: "Timescale structure of synchrony"
 slug: timescale
 category: research
 order: 16
-home: true
+home: false
 card-size: narrow
 card-thumb-label: "timescale"
 card-summary: "Timescale structure of synchrony"
@@ -12,6 +12,8 @@ card-detail: |
 thumbnail: ""
 figure: ""
 figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
 ---
 
 <!-- Research-page content to be drafted. -->

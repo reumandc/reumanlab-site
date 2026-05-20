@@ -1,9 +1,29 @@
 ---
 title: "Opportunities"
+banner: "banners/mandel.jpg"
 ---
 
-::: {.callout-note appearance="simple"}
-**Scaffold page** — content drafting to come.
-:::
+The lab welcomes prospective undergraduate researchers, graduate students, postdocs, and academic visitors. We work with researchers from a wide range of backgrounds — field and laboratory biologists, other quantitative biological scientists, and students and collaborators coming in from mathematics, statistics, computing, or the physical sciences.
 
-Information for prospective graduate students and postdocs will live here.
+## Prospective graduate students
+
+If the lab's work looks like a fit:
+
+- Look through the [Research](research.qmd) and [Software](software.qmd) pages and a few of Dan's [recent publications](publications.qmd) to find the threads that interest you most.
+- Develop strong quantitative skills before you apply.
+- Field- and lab-based projects may be available through co-supervision with other KU scientists.
+
+Applications go through KU's Department of Ecology and Evolutionary Biology. Useful starting points:
+
+- [KU Graduate School](https://graduate.ku.edu/)
+- [EEB application page](https://eeb.ku.edu/how-apply)
+
+**The annual application deadline is December 1.**
+
+## Prospective postdocs and visiting researchers
+
+Reach out to Dan directly ([reuman@ku.edu](mailto:reuman@ku.edu)) with a CV and a brief note about the work you'd like to do.
+
+## Contact
+
+[reuman@ku.edu](mailto:reuman@ku.edu) · 785-864-1500 · 2101 Constant Avenue, Lawrence, KS 66047

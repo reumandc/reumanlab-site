@@ -1,0 +1,29 @@
+---
+title: "BIOL420/701: Machine learning in biology"
+slug: ml-in-biology
+category: teaching
+order: 3.25
+home: true
+card-size: wide
+card-thumb-label: "machine learning"
+card-summary: "BIOL420/701: Machine learning in biology"
+card-detail: |
+  An course for graduate students and advanced undergraduates in the biological sciences, introducing the principles and practice of machine learning tailored for applications in biology. Students implement classification and regression trees,  neural networks, and other methods in R or Python to solve biological problems. The course builds toward a final project on a problem of the students' choice.
+thumbnail: "ArtificialNeuron.jpg"
+figure: "ArtificialNeuron.jpg"
+figure-caption: ""
+figure-placement: "right"
+figure-size: 0.25
+---
+
+This advanced course introduces students to the principles and practice of machine learning, tailored for applications in biology.
+
+The course covers topics such as:
+- Bias-variance tradeoffs, validation, testing, and overfitting
+- Classification and regression trees
+- Ensemble learning
+- Support vector machines
+- Neural networks and deep learning
+- Best practices 
+
+Students work in R or Python (or both), learning through worked examples and small-to medium-scale exercises. The course culminates in a final project applying machine learning to a biological problem of the student's choice.

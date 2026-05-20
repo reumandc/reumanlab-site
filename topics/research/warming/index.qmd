@@ -3,7 +3,7 @@ title: "Geothermal streams and whole-community effects of warming"
 slug: warming
 category: research
 order: 20
-home: true
+home: false
 card-size: wide
 card-thumb-label: "warming"
 card-summary: "Geothermal streams and whole-community effects of warming"
@@ -12,6 +12,8 @@ card-detail: |
 thumbnail: ""
 figure: ""
 figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
 ---
 
 <!-- Research-page content to be drafted. -->

@@ -3,7 +3,7 @@ title: "Asymmetric tail associations in ecology"
 slug: tails
 category: research
 order: 3
-home: true
+home: false
 card-size: narrow
 card-thumb-label: "tails"
 card-summary: "Asymmetric tail associations in ecology"
@@ -12,6 +12,8 @@ card-detail: |
 thumbnail: ""
 figure: ""
 figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
 ---
 
 <!-- Research-page content to be drafted. -->

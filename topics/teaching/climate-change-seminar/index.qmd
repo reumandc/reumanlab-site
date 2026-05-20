@@ -1,0 +1,21 @@
+---
+title: "BIOL 599: Climate change and what you can do about it"
+slug: climate-change-seminar
+category: teaching
+order: 15
+home: false
+card-size: narrow
+card-thumb-label: "climate seminar"
+card-summary: "BIOL 599: Climate change and what you can do about it"
+card-detail: |
+  A 1-credit senior seminar on the empirical case for human-caused climate change, its ecological and human impacts, and what individuals can do — within or outside their profession — to help mitigate it.
+thumbnail: "Icon.png"
+figure: ""
+figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
+---
+
+A 1-credit senior seminar (BIOL 599) Dan taught at KU. The class surveys the empirical case for human-caused climate change, the ecological and human impacts, and then turns to what individuals can do — within or outside their profession — to help mitigate it.
+
+The format is discussion-led. Students lead two sessions each, and many sessions feature a visiting speaker with whom the class also conducts an *informational interview* — a low-stakes Q&A about the visitor's career path that doubles as professional-networking practice.

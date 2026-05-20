@@ -15,6 +15,12 @@ project:
     - "people/**/*.jpeg"
     - "people/**/*.webp"
     - "people/**/*.gif"
+    - "banners/*.svg"
+    - "banners/*.png"
+    - "banners/*.jpg"
+    - "banners/*.jpeg"
+    - "banners/*.webp"
+    - "banners/*.gif"
 
 filters:
   - topic-figure.lua
@@ -53,3 +59,5 @@ format:
     css: styles.css
     toc: false
     include-after-body: card-toggle.html
+    template-partials:
+      - title-block.html

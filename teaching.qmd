@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+banner: "banners/penguin.jpg"
 listing:
   - id: teaching-cards
     contents: "topics/teaching/*/index.qmd"

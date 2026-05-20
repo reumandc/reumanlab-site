@@ -1,5 +1,6 @@
 ---
 title: "Software"
+banner: "banners/earth_and_equations.jpg"
 listing:
   - id: software-cards
     contents: "topics/software/*/index.qmd"

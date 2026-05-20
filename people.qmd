@@ -1,5 +1,6 @@
 ---
 title: "People"
+banner: "banners/TreeSunset.jpg"
 listing:
   - id: people-list
     contents: "people/*/index.qmd"

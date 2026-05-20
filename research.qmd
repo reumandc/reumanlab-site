@@ -1,5 +1,6 @@
 ---
 title: "Research"
+banner: "banners/HengillBanner.jpg"
 listing:
   - id: research-cards
     contents: "topics/research/*/index.qmd"

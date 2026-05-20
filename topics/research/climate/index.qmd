@@ -3,7 +3,7 @@ title: "Climate change and changes in synchrony"
 slug: climate
 category: research
 order: 18
-home: true
+home: false
 card-size: wide
 card-thumb-label: "climate"
 card-summary: "Climate change and changes in synchrony"
@@ -12,6 +12,8 @@ card-detail: |
 thumbnail: ""
 figure: ""
 figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
 ---
 
 <!-- Research-page content to be drafted. -->

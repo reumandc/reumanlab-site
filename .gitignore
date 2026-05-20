@@ -5,3 +5,7 @@
 .DS_Store
 
 **/*.quarto_ipynb
+
+# Local-only originals kept alongside their resized/optimized versions —
+# useful for re-cropping or re-compressing later, but not shipped to the site.
+**/*.orig.*

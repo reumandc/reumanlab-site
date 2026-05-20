@@ -1,0 +1,27 @@
+---
+title: "wsyn: wavelet approaches to studies of synchrony in ecology (webinar)"
+slug: wsyn-webinar
+category: teaching
+order: 50
+home: false
+card-size: wide
+card-thumb-label: "wsyn webinar"
+card-summary: "wsyn: wavelet methods for synchrony — an instructional webinar"
+card-detail: |
+  An invited webinar in the ESA Statistical Ecology and Ecological Forecasting Initiative series, May 2024, given jointly with Jon Walter. It introduces the wavelet methods we use to study spatial synchrony, with worked examples and accompanying code.
+thumbnail: ""
+figure: "TreeSunset.jpg"
+figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
+---
+
+This was an invited webinar in the [ESA Statistical Ecology and Ecological Forecasting Initiative Statistical Methods Seminar Series](https://ecoforecast.org/workshops/statistical-methods-seminar-series/), given in May 2024. It was a joint presentation with [Jon Walter](../../../people.qmd#jonathan-walter).
+
+The webinar introduces the wavelet methods we use to study synchrony in ecology, with worked examples and accompanying code. The recording and materials are publicly available:
+
+- [Recording on YouTube](https://www.youtube.com/watch?v=sxVHFwAkhdA)
+- [Worked examples and code on GitHub](https://github.com/reumandc/ReumanWalter_ESA_StatisticalMethodsWebinar)
+- [The full seminar series, with links to other speakers' resources](https://ecoforecast.org/workshops/statistical-methods-seminar-series/#previous-resources)
+
+People: [Jon Walter](../../../people.qmd#jonathan-walter), Dan Reuman
