@@ -1,0 +1,13 @@
+---
+name: "Georgina Adams"
+title: ""
+group: "past masters"
+order: 14
+email: "georgina.adams10@imperial.ac.uk"
+photo: ""
+links: []
+blurb: |
+  Body size and species composition of diatoms in Icelandic streams. Became a PhD student at Imperial College London, where she later completed her PhD in the lab.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

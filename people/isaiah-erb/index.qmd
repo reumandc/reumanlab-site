@@ -1,0 +1,13 @@
+---
+name: "Isaiah Erb"
+title: ""
+group: "past undergrad"
+order: 4
+email: ""
+photo: ""
+links: []
+blurb: |
+  The influence of topography on the geography of synchrony of terrestrial vegetation. University of Kansas.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

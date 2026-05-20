@@ -1,0 +1,13 @@
+---
+name: "Fernando Miguelena"
+title: "REU student, summer 2024"
+group: "current"
+order: 11
+email: "fmiguelena@ufl.edu"
+photo: "fernando-miguelena.jpg"
+links: []
+blurb: |
+  Fernando was an REU student through the Coastal-Heartland Marine Biology Exchange, which Dan co-led.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

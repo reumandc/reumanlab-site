@@ -1,0 +1,13 @@
+---
+name: "Nat Coombs"
+title: "PhD candidate"
+group: "current"
+order: 3
+email: "nat.coombs@ku.edu"
+photo: "nat-coombs.jpg"
+links: []
+blurb: |
+  Nat is conducting diverse synchrony research including human death time series, fish movement synchrony in California rivers, and remote-sensed vegetation signals.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

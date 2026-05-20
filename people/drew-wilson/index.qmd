@@ -1,0 +1,13 @@
+---
+name: "Drew Wilson"
+title: "PhD student (joint)"
+group: "past PhD"
+order: 7
+email: ""
+photo: ""
+links: []
+blurb: |
+  Drew was a joint PhD student between the Reuman group and Tom Bell at Imperial College London, and transferred fully to Tom's lab when Dan left Imperial.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

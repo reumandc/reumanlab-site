@@ -1,0 +1,17 @@
+---
+name: "Daniel C. Reuman"
+title: "Professor, Department of Ecology and Evolutionary Biology; Senior Scientist, Kansas Biological Survey and Center for Ecological Research; Principal Investigator"
+group: "current"
+order: 1
+email: "reuman@ku.edu"
+photo: "ReumanPhoto.jpg"
+links:
+  - label: "GitHub"
+    url: "https://github.com/reumandc"
+  - label: "Personal site"
+    url: "https://danielreuman.com"
+blurb: |
+  Dan is interested in quantitative approaches to biological questions. He is currently focused on aspects of species distribution modelling, topics in metapopulation and community synchrony, and crop yield forecasting. Dan was a James S McDonnell Foundation Complex Systems Scholar and a Humboldt Research Award winner.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

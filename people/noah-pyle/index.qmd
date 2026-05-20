@@ -1,0 +1,13 @@
+---
+name: "Noah Pyle"
+title: ""
+group: "past undergrad"
+order: 1
+email: ""
+photo: ""
+links: []
+blurb: |
+  Coastal-Heartland Marine Biology Exchange REU student. University of Kansas, Woods Hole Oceanographic Institute, and Kalamazoo College.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

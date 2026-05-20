@@ -1,0 +1,13 @@
+---
+name: "Laura Nunes"
+title: ""
+group: "past masters"
+order: 5
+email: ""
+photo: ""
+links: []
+blurb: |
+  Potential trends in the sensitivity of long-term growth rate to changes in the mean and standard deviation of environmental conditions. Became a PhD student at University College London.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

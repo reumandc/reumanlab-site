@@ -1,0 +1,13 @@
+---
+name: "Harkiran Bhogal"
+title: ""
+group: "past masters"
+order: 10
+email: ""
+photo: ""
+links: []
+blurb: |
+  Temperature and optimal swimming speed in fish.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

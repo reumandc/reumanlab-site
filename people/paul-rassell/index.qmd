@@ -1,0 +1,13 @@
+---
+name: "Paul Rassell"
+title: ""
+group: "past masters"
+order: 7
+email: ""
+photo: ""
+links: []
+blurb: |
+  Replicability of ecological community dynamics and the measures which characterize them: a study of innate variability in real and simulated communities. Became a PhD student at Imperial College London.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

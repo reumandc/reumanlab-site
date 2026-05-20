@@ -1,0 +1,13 @@
+---
+name: "Onofrio Mazzarisi"
+title: "Former postdoctoral researcher"
+group: "current"
+order: 6
+email: "onofrio.mazzarisi@gmail.com"
+photo: "onofrio-mazzarisi.jpg"
+links: []
+blurb: |
+  Onofrio is completing projects on diversity-stability relationships and sub-linear population growth self-limitation. He moved to a postdoctoral position at the National Institute of Oceanography and Applied Geophysics / International Center for Theoretical Physics in Trieste, Italy; and later obtained a Marie Curie Fellowship and a French CNRS position in Montpellier.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

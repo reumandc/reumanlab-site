@@ -1,0 +1,13 @@
+---
+name: "Daniel R. O'Donnell"
+title: "Postdoctoral researcher"
+group: "past postdoc"
+order: 1
+email: "odonnell.380@osu.edu"
+photo: "daniel-odonnell.jpg"
+links: []
+blurb: |
+  Danny was a postdoc with Andrew Rypel at UC Davis, affiliated with the Reuman lab. He worked on freshwater fish movement in California using telemetry, including synchronous movement. He then became Senior Environmental Scientist at the California Department of Fish and Wildlife Water Branch.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

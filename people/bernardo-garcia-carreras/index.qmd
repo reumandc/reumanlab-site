@@ -1,0 +1,13 @@
+---
+name: "Bernardo Garcia-Carreras"
+title: "PhD student"
+group: "past PhD"
+order: 3
+email: "bgarciacarreras@gmail.com"
+photo: "bernardo-garcia-carreras.jpg"
+links: []
+blurb: |
+  Bernardo's PhD (2012) aimed to improve understanding of how populations respond to anthropogenic environmental change. He provided some of the first empirical evidence linking the spectral colour of environmental and population fluctuations, and used models to address whether climate-change alterations in means or variances matter more for population dynamics. He then became a permanent researcher at the Centre for Environment, Fisheries, and Aquaculture Science. Dissertation: *The global effects of climate change on population dynamics.*
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

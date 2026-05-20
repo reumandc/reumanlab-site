@@ -1,0 +1,13 @@
+---
+name: "Lucy Li"
+title: ""
+group: "past undergrad"
+order: 18
+email: ""
+photo: ""
+links: []
+blurb: |
+  The predictive power of R* in a two-predator one-prey Lotka-Volterra model. Imperial College London.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

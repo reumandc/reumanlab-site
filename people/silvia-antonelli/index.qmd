@@ -1,0 +1,13 @@
+---
+name: "Silvia Antonelli"
+title: ""
+group: "past masters"
+order: 18
+email: ""
+photo: ""
+links: []
+blurb: |
+  Modeling the eco-evolutionary dynamics of a temperature-dependent consumer-resource system. Primary supervisor: Tim Barraclough.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

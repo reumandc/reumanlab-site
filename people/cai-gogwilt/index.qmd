@@ -1,0 +1,13 @@
+---
+name: "Cai GoGwilt"
+title: ""
+group: "past undergrad"
+order: 25
+email: ""
+photo: ""
+links: []
+blurb: |
+  Population models with mechanistic stochasticity. Rockefeller University, New York.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

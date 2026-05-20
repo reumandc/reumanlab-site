@@ -1,0 +1,13 @@
+---
+name: "Dimitrios Nerantzis"
+title: ""
+group: "past masters"
+order: 12
+email: ""
+photo: ""
+links: []
+blurb: |
+  Predicting imposed chaos in the population dynamics of an insect species. Became a PhD student at Imperial College London.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

@@ -1,0 +1,13 @@
+---
+name: "Thomas Britton"
+title: ""
+group: "past undergrad"
+order: 23
+email: ""
+photo: ""
+links: []
+blurb: |
+  Latitudinal biodiversity gradients. Imperial College London.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

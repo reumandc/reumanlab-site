@@ -1,0 +1,13 @@
+---
+name: "Melissa Guzman"
+title: ""
+group: "past masters"
+order: 6
+email: ""
+photo: ""
+links: []
+blurb: |
+  The inflationary effects of temporal autocorrelation provide persistence in multi-trophic sink metacommunities. Became a PhD student at McGill University.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

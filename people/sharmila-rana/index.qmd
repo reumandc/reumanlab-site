@@ -1,0 +1,13 @@
+---
+name: "Sharmila Rana"
+title: ""
+group: "past undergrad"
+order: 13
+email: ""
+photo: ""
+links: []
+blurb: |
+  Is change in the mean or the variability of a climate variable more important for extinction risk in a density-dependent population model? Imperial College London.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

@@ -1,0 +1,13 @@
+---
+name: "Yaodong Yang"
+title: ""
+group: "past masters"
+order: 4
+email: ""
+photo: ""
+links: []
+blurb: |
+  Dispersal and island biogeography. Primary supervisor: James Rosindell. Became a PhD student at the University of Southampton.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

@@ -1,0 +1,13 @@
+---
+name: "Simon Mills"
+title: ""
+group: "past masters"
+order: 3
+email: ""
+photo: ""
+links: []
+blurb: |
+  Measuring histories of habitat fragmentation using terrageny metrics offers fresh insight into fragmented landscapes. Became a PhD student at the University of Sheffield.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

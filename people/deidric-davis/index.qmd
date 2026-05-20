@@ -1,0 +1,13 @@
+---
+name: "Deidric Davis"
+title: "REU student, summer 2024"
+group: "current"
+order: 9
+email: "deidricdavis40@gmail.com"
+photo: "deidric-davis.jpg"
+links: 
+blurb: |
+  Deidric was an REU student through the Coastal-Heartland Marine Biology Exchange, which Dan co-led. Deidric is a marine ecologist and scientific communicator with a B.S. in Marine Science and a B.A. in Animal Studies from Eckerd College. He hosts the *Black Nerds Matter* podcast on WMNF. He was accepted into a PhD program at Stanford.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

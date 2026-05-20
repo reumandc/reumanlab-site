@@ -1,0 +1,13 @@
+---
+name: "Georgina Adams"
+title: "PhD student"
+group: "past PhD"
+order: 1
+email: "georgina.adams10@imperial.ac.uk"
+photo: "georgina-adams.jpg"
+links: []
+blurb: |
+  Georgina's PhD (2015) examined community structure in aquatic systems, with a focus on spatial and temporal trends in size-based metrics and the effects of climate on body size. Her background spans mathematics, evolutionary biology, and ecology. Dissertation: *Biogeography of marine communities: beyond food webs and the abundance spectrum.*
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

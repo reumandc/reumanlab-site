@@ -1,0 +1,13 @@
+---
+name: "Carter Pilch"
+title: ""
+group: "past undergrad"
+order: 9
+email: ""
+photo: ""
+links: []
+blurb: |
+  Synchrony of five common amphibian species in Minnesota. University of Kansas.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

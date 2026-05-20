@@ -1,0 +1,13 @@
+---
+name: "Goma Karki"
+title: ""
+group: "past undergrad"
+order: 10
+email: ""
+photo: ""
+links: []
+blurb: |
+  University of Kansas. Jon Walter was primary supervisor.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

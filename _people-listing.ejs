@@ -1,0 +1,73 @@
+<%
+// Group people by section, then sort each section by order ascending.
+// Sections that have no people are skipped.
+
+const groupOrder = [
+  'current',
+  'past postdoc',
+  'past PhD',
+  'past masters',
+  'past undergrad',
+];
+
+const groupLabels = {
+  'current': 'Current or recent lab members',
+  'past postdoc': 'Past postdocs',
+  'past PhD': 'Past PhD students',
+  'past masters': 'Past masters students',
+  'past undergrad': 'Past undergraduate research students',
+};
+
+const groups = {};
+items.forEach(it => {
+  const g = it.group || 'current';
+  if (!groups[g]) groups[g] = [];
+  groups[g].push(it);
+});
+
+for (const s in groups) {
+  groups[s].sort((a, b) => (Number(a.order) || 0) - (Number(b.order) || 0));
+}
+%>
+
+<% groupOrder.forEach(group => {
+  const people = groups[group];
+  if (!people || people.length === 0) return;
+%>
+<section class="people-section">
+<h2><%= groupLabels[group] %></h2>
+
+<% const isCompact = (group === 'past masters' || group === 'past undergrad'); %>
+<% const showEmail = (group === 'current'); %>
+<% const showPhoto = (group === 'current'); %>
+<% people.forEach(it => {
+     const folderPath = (it.path || '').replace(/\/[^\/]+$/, '');
+     const slug = folderPath.split('/').pop() || '';
+     const photoUrl = (showPhoto && it.photo) ? (folderPath + '/' + it.photo) : '';
+%>
+<% if (isCompact) { %>
+<div class="person person-compact" id="<%= slug %>">
+<p><strong><%- it.name || '' %>.</strong> <%- it.blurb || '' %></p>
+</div>
+<% } else { %>
+<div class="person" id="<%= slug %>">
+<% if (photoUrl) { %>
+<div class="person-photo"><img src="<%= photoUrl %>" alt="<%= it.name || '' %>"></div>
+<% } %>
+<div class="person-body">
+<h3 class="person-name"><%- it.name || '' %></h3>
+<% if (it.title) { %><div class="person-title"><%- it.title %></div><% } %>
+<% if (showEmail && it.email) { %><div class="person-email"><a href="mailto:<%= it.email %>"><%= it.email %></a></div><% } %>
+<div class="person-blurb"><%- it.blurb || '' %></div>
+<% if (it.links && it.links.length > 0) { %>
+<div class="person-links">
+<% it.links.forEach((link, idx) => { %><% if (idx > 0) { %> · <% } %><a href="<%= link.url %>"><%= link.label %></a><% }); %>
+</div>
+<% } %>
+</div>
+</div>
+<% } %>
+<% }); %>
+
+</section>
+<% }); %>

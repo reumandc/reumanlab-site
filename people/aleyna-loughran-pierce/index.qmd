@@ -1,0 +1,13 @@
+---
+name: "Aleyna Loughran-Pierce"
+title: "REU student, summer 2024"
+group: "current"
+order: 10
+email: "xdg8zj@virginia.edu"
+photo: "aleyna-loughran-pierce.webp"
+links: []
+blurb: |
+  Aleyna was an REU student through the Coastal-Heartland Marine Biology Exchange, which Dan co-led.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

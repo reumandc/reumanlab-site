@@ -1,0 +1,13 @@
+---
+name: "Lawrence Hudson"
+title: "PhD student"
+group: "past PhD"
+order: 4
+email: "l.hudson@nhm.ac.uk"
+photo: "lawrence-hudson.jpeg"
+links: []
+blurb: |
+  Lawrence's PhD (2012) examined the relationship between the dynamics and structure of complex multi-trophic communities. He produced the R package cheddar for community analysis, which has been widely used since. He also worked on body-mass scaling of field metabolic rates in birds and mammals. Lawrence then moved to a permanent research position at the Natural History Museum, London.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

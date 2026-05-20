@@ -1,0 +1,13 @@
+---
+name: "Angel Robles"
+title: "Postdoctoral researcher"
+group: "current"
+order: 2
+email: "a474r867@ku.edu"
+photo: "angel-robles.jpg"
+links: []
+blurb: |
+  Angel researches species niche and distribution modelling using stochastic demography. His past work includes wildlife disease susceptibility, population genetics, and species interactions.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

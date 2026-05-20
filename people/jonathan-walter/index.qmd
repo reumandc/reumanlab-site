@@ -1,0 +1,13 @@
+---
+name: "Jonathan Walter"
+title: "Postdoctoral researcher"
+group: "past postdoc"
+order: 7
+email: "jwalter4@vcu.edu"
+photo: "jonathan-walter.jpg"
+links: []
+blurb: |
+  While in the lab, Jon worked on geographic approaches synchrony (which then became the foundation of a research line in the lab), and the impacts of climate variability on insect outbreaks. He later became a permanent researcher at UC Davis.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

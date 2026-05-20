@@ -1,0 +1,13 @@
+---
+name: "Chase Horner"
+title: "Former undergraduate researcher, then Technician"
+group: "current"
+order: 7
+email: "chase.horner@ku.edu"
+photo: "ChaseHorner.jpeg"
+links: []
+blurb: |
+  Chase worked on machine learning approaches to crop yield forecasting. He worked with Dan to build out prototype models capable of useable 20m-resolutionn predictions. He was accepted into a masters program in data science at the University Virginia. 
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

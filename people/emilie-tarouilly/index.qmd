@@ -1,0 +1,13 @@
+---
+name: "Emilie Tarouilly"
+title: ""
+group: "past undergrad"
+order: 12
+email: ""
+photo: ""
+links: []
+blurb: |
+  Environmental drivers of global synchrony in phytoplankton. Imperial College London.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

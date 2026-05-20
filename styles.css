@@ -286,6 +286,19 @@ details.card > summary::marker { content: ""; }
   border-radius: 4px;
   padding: 0.25rem;
   line-height: 1.1;
+  overflow: hidden;
+}
+
+.card-thumb.has-image {
+  background: #fff;
+  padding: 0;
+}
+
+.card-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
 }
 
 .card-question {
@@ -336,4 +349,130 @@ details.card > summary::marker { content: ""; }
   .card-row {
     flex-direction: column;
   }
+}
+
+/* === People page === */
+
+.people-section {
+  margin: 1.5rem 0 2.5rem 0;
+}
+
+.people-section h2 {
+  border: none;
+  margin: 2rem 0 1rem 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #1a202c;
+}
+
+.person {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 1.75rem;
+  align-items: flex-start;
+  scroll-margin-top: 80px;
+}
+
+.person-photo {
+  flex-shrink: 0;
+  width: 120px;
+  height: 120px;
+  overflow: hidden;
+  border-radius: 6px;
+  background: #f0f0f0;
+}
+
+.person-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.person-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.person-name {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #1a202c;
+  border: none;
+}
+
+.person-title {
+  color: #4a5568;
+  font-size: 0.95rem;
+  margin-top: 0.2rem;
+}
+
+.person-email {
+  color: #4a5568;
+  font-size: 0.9rem;
+  margin-top: 0.3rem;
+}
+
+.person-email a {
+  color: #2780e3;
+  text-decoration: none;
+}
+
+.person-blurb {
+  margin-top: 0.65rem;
+  color: #2d3748;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.person-blurb p {
+  margin: 0 0 0.5rem 0;
+}
+
+.person-blurb p:last-child {
+  margin-bottom: 0;
+}
+
+.person-links {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+.person-links a {
+  color: #2780e3;
+  text-decoration: none;
+}
+
+.person-links a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .person {
+    flex-direction: column;
+  }
+  .person-photo {
+    width: 100px;
+    height: 100px;
+  }
+}
+
+/* Compact one-line-per-person layout for past masters / past undergrads. */
+.person-compact {
+  display: block;
+  margin-bottom: 0.6rem;
+  scroll-margin-top: 80px;
+}
+
+.person-compact p {
+  margin: 0;
+  color: #2d3748;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.person-compact strong {
+  color: #1a202c;
 }

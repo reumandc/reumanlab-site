@@ -1,0 +1,13 @@
+---
+name: "Ryota Nakamura"
+title: ""
+group: "past undergrad"
+order: 20
+email: ""
+photo: ""
+links: []
+blurb: |
+  Murder rates are higher when the weather is warmer. Imperial College London.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

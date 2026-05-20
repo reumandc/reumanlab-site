@@ -1,0 +1,13 @@
+---
+name: "Ethan Kadiyala"
+title: "PhD candidate (University of Virginia)"
+group: "current"
+order: 4
+email: "qkz8dd@virginia.edu"
+photo: "ethan-kadiyala.jpg"
+links: []
+blurb: |
+  Ethan is a PhD candidate in the Castorani lab at the University of Virginia. He has a long-standing collaboration with the Reuman lab and a fellowship co-mentored by Dan.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

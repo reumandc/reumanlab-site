@@ -1,0 +1,13 @@
+---
+name: "Thomas Gartman"
+title: ""
+group: "past undergrad"
+order: 6
+email: ""
+photo: ""
+links: []
+blurb: |
+  Geography of synchrony of terrestrial vegetation in urban areas. University of Kansas.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

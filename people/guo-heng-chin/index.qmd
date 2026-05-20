@@ -1,0 +1,13 @@
+---
+name: "Guo-Heng Chin"
+title: ""
+group: "past masters"
+order: 13
+email: ""
+photo: ""
+links: []
+blurb: |
+  Abundance-occupancy relationships in deep-sea fish species. Primary supervisor: Julia Blanchard.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

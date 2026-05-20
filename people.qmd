@@ -1,9 +1,15 @@
 ---
 title: "People"
+listing:
+  - id: people-list
+    contents: "people/*/index.qmd"
+    type: custom
+    template: _people-listing.ejs
+    page-size: 200
+    categories: false
+    feed: false
+    fields: [name, title, group, order, email, photo, links, blurb, path]
 ---
 
-::: {.callout-note appearance="simple"}
-**Scaffold page** — content drafting to come.
+::: {#people-list}
 :::
-
-Current members, postdocs, students, and alumni will be listed here.

@@ -1,0 +1,13 @@
+---
+name: "Tom Anderson"
+title: "Postdoctoral researcher"
+group: "past postdoc"
+order: 6
+email: "anderstl@gmail.com"
+photo: "tom-anderson.jpg"
+links: []
+blurb: |
+  In the lab, Tom worked on spatial synchrony across taxa including freshwater plankton, deer, and amphibians. He later became Associate Professor at Southern Illinois University.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

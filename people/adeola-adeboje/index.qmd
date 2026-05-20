@@ -1,0 +1,13 @@
+---
+name: "Adeola Adeboje"
+title: ""
+group: "past masters"
+order: 1
+email: ""
+photo: ""
+links: []
+blurb: |
+  Cross environmental variable synchrony.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

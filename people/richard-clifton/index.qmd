@@ -1,0 +1,13 @@
+---
+name: "Richard Clifton"
+title: ""
+group: "past undergrad"
+order: 14
+email: ""
+photo: ""
+links: []
+blurb: |
+  Can extinctions be predicted after anthropogenic perturbations to ecosystems? Imperial College London.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

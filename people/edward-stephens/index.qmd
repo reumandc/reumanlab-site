@@ -1,0 +1,13 @@
+---
+name: "Edward Stephens"
+title: ""
+group: "past undergrad"
+order: 24
+email: ""
+photo: ""
+links: []
+blurb: |
+  An unwritten future: defining the global water shortage and the multidimensional crisis facing China's national security. Imperial College London.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

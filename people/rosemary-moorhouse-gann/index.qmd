@@ -1,0 +1,13 @@
+---
+name: "Rosemary Moorhouse-Gann"
+title: ""
+group: "past masters"
+order: 9
+email: ""
+photo: ""
+links: []
+blurb: |
+  An American invasion: the origins, genetic diversity, and population structure of the American grey squirrel in Cumbria. Became a PhD student at the University of Cardiff.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

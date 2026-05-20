@@ -1,0 +1,13 @@
+---
+name: "Emma Defriez"
+title: "PhD student"
+group: "past PhD"
+order: 2
+email: "e.defriez11@imperial.ac.uk"
+photo: "emma-defriez.jpg"
+links: []
+blurb: |
+  Emma's PhD (2016) focused on global patterns of metapopulation synchrony in primary producers and climate-driven synchrony changes. She worked with Lawrence Sheppard and Chris Reid from SAHFOS, drawing on the Continuous Plankton Recorder database and satellite data. Dissertation: *Synchrony in marine plankton metapopulations and the effects of climate.*
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

@@ -1,0 +1,13 @@
+---
+name: "Lisa Signorile"
+title: "PhD student"
+group: "past PhD"
+order: 5
+email: "lisa.signorile@gmail.com"
+photo: "lisa-signorile.jpg"
+links: []
+blurb: |
+  Lisa's PhD (2014) investigated the genetic determinants of American grey squirrel invasiveness in Europe, finding that low genetic diversity correlated with reduced spread propensity and that long-distance human translocations drove fast European spread. Her interests were in the ecology and population genetics of small mammals and vertebrates, and in science communication. Dissertation: *Ecological and genetic determinants of the expansion of grey squirrel populations in Italy and Britain.*
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

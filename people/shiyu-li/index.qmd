@@ -1,0 +1,13 @@
+---
+name: "Shiyu Li"
+title: ""
+group: "past masters"
+order: 8
+email: ""
+photo: ""
+links: []
+blurb: |
+  On the relative importance of changes in the mean and variability of climatic signals for the long-term stochastic growth rate of an age-structured population.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

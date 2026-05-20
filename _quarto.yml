@@ -3,6 +3,21 @@ project:
   output-dir: _site
   resources:
     - CNAME
+    - "topics/**/*.svg"
+    - "topics/**/*.png"
+    - "topics/**/*.jpg"
+    - "topics/**/*.jpeg"
+    - "topics/**/*.webp"
+    - "topics/**/*.gif"
+    - "people/**/*.svg"
+    - "people/**/*.png"
+    - "people/**/*.jpg"
+    - "people/**/*.jpeg"
+    - "people/**/*.webp"
+    - "people/**/*.gif"
+
+filters:
+  - topic-figure.lua
 
 website:
   title: "Reuman Lab"

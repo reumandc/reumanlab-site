@@ -1,0 +1,13 @@
+---
+name: "Jacob Peterson"
+title: ""
+group: "past undergrad"
+order: 11
+email: ""
+photo: ""
+links: []
+blurb: |
+  Relationships between patterns of synchrony in taxonomically and ecologically similar species in the North Sea. University of Kansas.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

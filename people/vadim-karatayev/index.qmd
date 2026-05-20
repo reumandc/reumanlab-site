@@ -1,0 +1,13 @@
+---
+name: "Vadim Karatayev"
+title: "Former postdoctoral researcher"
+group: "current"
+order: 5
+email: "vadimk@umd.edu"
+photo: "vadim-karatayev.png"
+links: []
+blurb: |
+  Vadim is completing projects related to resilience. He was an NSF Postdoctoral Fellow with the lab and is now William J. Higgins Endowed Assistant Professor at the University of Maryland.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

@@ -1,0 +1,13 @@
+---
+name: "Yesim Dodlani"
+title: ""
+group: "past masters"
+order: 16
+email: ""
+photo: ""
+links: []
+blurb: |
+  Spatial and temporal scaling of the abundance spectrum.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

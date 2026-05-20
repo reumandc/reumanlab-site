@@ -1,0 +1,13 @@
+---
+name: "Brandon Mechtley"
+title: "Postdoctoral researcher"
+group: "past postdoc"
+order: 8
+email: "bmechtley@gmail.com"
+photo: "brandon-mechtley.jpg"
+links: []
+blurb: |
+  Brandon studied theoretical models of synchrony propagation through trophic networks across space and timescales. His background spans multimedia information retrieval, computer music synthesis, and acoustic ecology. He later took up a permanent research position at the University of Arizona.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

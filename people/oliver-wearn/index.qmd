@@ -1,0 +1,13 @@
+---
+name: "Oliver Wearn"
+title: ""
+group: "past masters"
+order: 19
+email: ""
+photo: ""
+links: []
+blurb: |
+  Extinction debt in the Brazilian Amazon. Oliver's master's thesis work was eventually published in *Science*. Became a PhD student at Imperial College London.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

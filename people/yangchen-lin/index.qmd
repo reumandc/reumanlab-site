@@ -1,0 +1,13 @@
+---
+name: "Yangchen Lin"
+title: ""
+group: "past masters"
+order: 15
+email: ""
+photo: ""
+links: []
+blurb: |
+  The link between maximum likelihood and the forecast accuracy of mechanistic population models. Won the Gerald Durrell award for best thesis in his MSc year. Became a PhD student at Cambridge University.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

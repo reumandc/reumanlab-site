@@ -1,0 +1,13 @@
+---
+name: "Scott Colborne"
+title: "Postdoctoral researcher"
+group: "past postdoc"
+order: 2
+email: "scolbor@gmail.com"
+photo: "scott-colborne.jpg"
+links: []
+blurb: |
+  Scott was a postdoc with Andrew Rypel at UC Davis, affiliated with the Reuman lab, working on fish movement synchrony in California using telemetry. He then became a Research Scientist at the Quantitative Fisheries Center, Michigan State University.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

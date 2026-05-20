@@ -42,7 +42,13 @@ while (i < displayItems.length) {
 %>
 <details class="card <%= sizeClass %>">
 <summary>
+<% if (it.thumbnail) {
+     const dir = (it.path || '').replace(/\/[^\/]+$/, '/');
+%>
+<span class="card-thumb has-image"><img src="<%= dir + it.thumbnail %>" alt="<%= it['card-thumb-label'] || it['card-summary'] || '' %>"></span>
+<% } else { %>
 <span class="card-thumb"><%= it['card-thumb-label'] || '' %></span>
+<% } %>
 <span class="card-question"><%- it['card-summary'] || it.title || '' %></span>
 </summary>
 <div class="card-body">

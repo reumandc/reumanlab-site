@@ -1,0 +1,13 @@
+---
+name: "Shyamolina Ghosh"
+title: "Postdoctoral researcher"
+group: "past postdoc"
+order: 4
+email: "ghoshshyamolina89@gmail.com"
+photo: "shyamolina-ghosh.jpg"
+links: []
+blurb: |
+  Shyamolina applied copula statistical concepts to ecological and environmental datasets, developing one of our main approches to synchrony. She moved to a postdoctoral position in Switzerland and later became Assistant Professor at the Indian Statistical Institute in Kolkata. 
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

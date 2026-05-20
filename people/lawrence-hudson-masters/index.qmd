@@ -1,0 +1,13 @@
+---
+name: "Lawrence Hudson"
+title: ""
+group: "past masters"
+order: 20
+email: "l.hudson@nhm.ac.uk"
+photo: ""
+links: []
+blurb: |
+  Dynamics of complex food webs: empirical verification of models. Became a PhD student at Imperial College London, where he later completed his PhD in the lab.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

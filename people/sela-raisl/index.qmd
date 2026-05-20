@@ -1,0 +1,13 @@
+---
+name: "Sela Raisl"
+title: "REU student, summer 2024"
+group: "current"
+order: 12
+email: "selaraisl@gmail.com"
+photo: "sela-raisl.jpg"
+links: []
+blurb: |
+  Sela was an REU student through the Coastal-Heartland Marine Biology Exchange, which Dan co-led. 
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

@@ -1,0 +1,14 @@
+---
+name: "Lei Zhao"
+title: "Postdoctoral researcher"
+group: "past postdoc"
+order: 5
+email: "leizhao@ku.edu"
+photo: "lei-zhao.jpg"
+links: []
+blurb: |
+  Lei is interested in population dynamics in food webs and ecological applications of complex network theory, and the effects of warming on aquatic communities. In the lab he worked on spatial synchrony, Taylor's law, phytoplankton synchrony in the California Current, and the determinants of the slope of Taylor's law. He then became an Associate Professor in Beijing at the China Agricultural University.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->
+

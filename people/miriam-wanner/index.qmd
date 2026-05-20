@@ -1,0 +1,13 @@
+---
+name: "Miriam Wanner"
+title: ""
+group: "past undergrad"
+order: 3
+email: ""
+photo: ""
+links: []
+blurb: |
+  The geography of synchrony of giant kelp. University of Virginia.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

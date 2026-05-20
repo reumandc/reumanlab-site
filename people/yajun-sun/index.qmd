@@ -1,0 +1,13 @@
+---
+name: "Yajun Sun"
+title: ""
+group: "past masters"
+order: 21
+email: ""
+photo: ""
+links: []
+blurb: |
+  Distributions of average species body masses in local community food webs. Became a PhD student at the University of Toronto.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

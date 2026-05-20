@@ -1,0 +1,13 @@
+---
+name: "William Mullins"
+title: "Undergraduate researcher"
+group: "past"
+order: 0.5
+email: "w821m491@ku.edu"
+photo: ""
+links: []
+blurb: |
+  William worked on machine learning approaches to predicting the distribution and abundance of giant kelp populations off the California coast.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

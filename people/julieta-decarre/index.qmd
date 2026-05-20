@@ -1,0 +1,13 @@
+---
+name: "Julieta Decarre"
+title: "PhD student"
+group: "past PhD"
+order: 6
+email: "j.decarre10@imperial.ac.uk"
+photo: ""
+links: []
+blurb: |
+  Julieta's PhD (2015) examined how agricultural practices and land-cover changes affect wildlife persistence in the semiarid Chaco region. She is a field biologist who implements monitoring designs like camera traps. She previously worked at the National Institute of Agricultural Technology of Argentina (INTA) developing strategies that balance food production and conservation. Dissertation: *Diversity and structure of bird and mammal communities in the semiarid Chaco region: response to agricultural practices and landscape alterations.*
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

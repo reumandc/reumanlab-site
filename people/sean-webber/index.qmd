@@ -1,0 +1,13 @@
+---
+name: "Sean Webber"
+title: ""
+group: "past masters"
+order: 11
+email: ""
+photo: ""
+links: []
+blurb: |
+  Reconstructing the rise and demise of two squirrel species in Great Britain: testing the role of forest cover.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

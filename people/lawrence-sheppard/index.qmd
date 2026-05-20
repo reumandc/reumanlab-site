@@ -1,0 +1,13 @@
+---
+name: "Lawrence Sheppard"
+title: "Postdoctoral researcher"
+group: "past postdoc"
+order: 3
+email: "lwsheppard@ku.edu"
+photo: "lawrence-sheppard.jpg"
+links: []
+blurb: |
+  Lawrence led some of our work on wavelet approaches to synchrony which later became the foundation for one of our main lines of inquiry. He later took up a permanent researcher position at the UK Marine Biological Association.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->

@@ -1,0 +1,13 @@
+---
+name: "Daniella Schittler"
+title: ""
+group: "past undergrad"
+order: 26
+email: ""
+photo: ""
+links: []
+blurb: |
+  Emergent properties of tri-trophic interactions and food chains in food webs with abundances and body masses. Rockefeller University, New York.
+---
+
+<!-- Optional longer bio / extended notes for the per-person page can go here. Leave empty for now. -->
