@@ -3,9 +3,9 @@ title: "Research"
 banner: "banners/HengillBanner.jpg"
 listing:
   - id: research-cards
-    contents: "topics/research/*/index.qmd"
+    contents: "topics/*/*/index.qmd"
     type: custom
-    template: _card-listing.ejs
+    template: _card-listing-research.ejs
     sort: "order asc"
     page-size: 100
     categories: false

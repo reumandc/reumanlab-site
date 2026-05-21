@@ -9,11 +9,19 @@ card-thumb-label: "cheddar"
 card-summary: "cheddar: food-web visualization software"
 card-detail: |
   R package for analysis and visualisation of food-web data developed by former Reuman lab PhD student Lawrence Hudson while he was in the lab. Downloaded >90K times, cited by >100 scientific papers.
-thumbnail: ""
-figure: ""
+thumbnail: "cheddar_demo_thumb.png"
+figure: "cheddar_demo.png"
 figure-caption: ""
-figure-placement: "top"
-figure-size: 1.0
+figure-placement: "right"
+figure-size: 0.5
 ---
 
-<!-- Software-page content to be drafted. -->
+R package for the analysis and visualization of food web data. Created by Reuman lab
+student [Lawrence Hudson](../../../people.qmd#lawrence-hudson).
+
+- Source: <https://github.com/quicklizard99/cheddar/>
+- CRAN: <https://cran.r-project.org/web/packages/cheddar/index.html>
+
+L.N. Hudson, R. Emmerson, G. Jenkins, K. Layer, M.E. Ledger, D. Pichler, M. Thompson, E. O’Gorman, G. Woodward, D.C. Reuman. 2013. Cheddar – analysis and visualization of ecological communities in R. Methods in Ecology and Evolution 4, 99-104. doi: 10.1111/2041-210X.12005. Available open access.
+
+People: [Lawrence Hundson](../../../people.qmd#lawrence-hudson), Dan Reuman

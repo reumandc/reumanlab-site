@@ -1,10 +1,17 @@
 <%
-// Home's card listing. Items are pre-scoped via the listing's `include:`
-// filter in index.qmd (home: true). Renders whatever it gets.
+// Research section listing. Receives all topics and keeps only those whose
+// `category:` field — split on `&` and trimmed — contains "research".
+// Rendering logic is inlined (mirrors _card-listing.ejs) because EJS includes
+// don't behave reliably under Quarto's template runner.
+
+const targetCategory = 'research';
+
+const displayItems = items.filter(it => {
+  const cats = String(it.category || '').split('&').map(s => s.trim()).filter(Boolean);
+  return cats.includes(targetCategory);
+});
 
 const jitter = [92, 86, 98, 88, 95, 89, 84, 96, 91, 87, 94, 85];
-
-const displayItems = items;
 
 const rows = [];
 let i = 0;

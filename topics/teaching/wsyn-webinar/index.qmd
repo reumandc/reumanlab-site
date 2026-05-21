@@ -9,16 +9,16 @@ card-thumb-label: "wsyn webinar"
 card-summary: "wsyn: wavelet methods for synchrony — an instructional webinar"
 card-detail: |
   An invited webinar in the ESA Statistical Ecology and Ecological Forecasting Initiative series, May 2024, given jointly with Jon Walter. It introduces the wavelet methods we use to study spatial synchrony, with worked examples and accompanying code.
-thumbnail: ""
-figure: "TreeSunset.jpg"
-figure-caption: ""
-figure-placement: "top"
-figure-size: 1.0
+thumbnail: "ExampleWPMF.jpg"
+figure: "ExampleWPMF.jpg"
+figure-caption: "Example wavelet phasor mean field produced with the wsyn package"
+figure-placement: "right"
+figure-size: 0.5
 ---
 
-This was an invited webinar in the [ESA Statistical Ecology and Ecological Forecasting Initiative Statistical Methods Seminar Series](https://ecoforecast.org/workshops/statistical-methods-seminar-series/), given in May 2024. It was a joint presentation with [Jon Walter](../../../people.qmd#jonathan-walter).
+This was an invited webinar in the [ESA Statistical Ecology and Ecological Forecasting Initiative Statistical Methods Seminar Series](https://ecoforecast.org/workshops/statistical-methods-seminar-series/), given in May 2024. It was a joint presentation with [Jon Walter](../../../people.qmd#jonathan-walter). It gives a good introduction to some of the methods we commonly use to study synchrony.
 
-The webinar introduces the wavelet methods we use to study synchrony in ecology, with worked examples and accompanying code. The recording and materials are publicly available:
+The webinar includes worked examples and accompanying code. The recording and materials are here:
 
 - [Recording on YouTube](https://www.youtube.com/watch?v=sxVHFwAkhdA)
 - [Worked examples and code on GitHub](https://github.com/reumandc/ReumanWalter_ESA_StatisticalMethodsWebinar)

@@ -3,9 +3,9 @@ title: "Software"
 banner: "banners/earth_and_equations.jpg"
 listing:
   - id: software-cards
-    contents: "topics/software/*/index.qmd"
+    contents: "topics/*/*/index.qmd"
     type: custom
-    template: _card-listing.ejs
+    template: _card-listing-software.ejs
     sort: "order asc"
     page-size: 100
     categories: false

@@ -1,0 +1,27 @@
+---
+title: "ucminfcpp: a C++ implementation of the ucminf optimizer"
+slug: ucminfcpp
+category: software
+order: 25
+home: true
+card-size: wide
+card-thumb-label: "ucminfcpp"
+card-summary: "ucminfcpp: a C++ implementation of the ucminf optimizer"
+card-detail: |
+  R package by Reuman lab postdoc Angel Robles Fernandez. A C++ port of the optimization algorithm in the R package `ucminf`, built to interoperate faster and more cleanly with `xsdm` (but has other applications, of course).
+thumbnail: ""
+figure: ""
+figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
+---
+
+`ucminfcpp` provides a C++ implementation of the unconstrained nonlinear optimization algorithm originally distributed in the R package [`ucminf`](https://cran.r-project.org/package=ucminf). The algorithm and interface are unchanged; the reimplementation makes the optimizer callable directly from C++ and removes R-side overhead.
+
+The package was developed by [Angel Robles Fernandez](../../../people.qmd#angel-robles) to support [`xsdm`](../../research/xsdm/), where `ucminf` is called repeatedly inside the model-fitting routines. Folding the optimizer into the compiled layer made the `xsdm` fitting code faster.
+
+- CRAN: <https://cloud.r-project.org/web/packages/ucminfcpp/index.html>
+- Package website: <https://alrobles.github.io/ucminfcpp/>
+- Source: <https://github.com/alrobles/ucminfcpp>
+
+People: [Angel Robles Fernandez](../../../people.qmd#angel-robles)

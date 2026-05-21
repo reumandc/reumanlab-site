@@ -16,14 +16,10 @@ figure-placement: "right"
 figure-size: 0.5
 ---
 
-This undergraduate course (BIOL 414 / EVRN 414) familiarizes students with the major concepts of ecology.
-
-The course is organized around three themes:
+Your standard undergraduate introduction to ecology. Familiarizes students with the major concepts. The course is organized around three themes:
 
 1. **Ecology and evolution are two sides of the same coin.** Evolution sets the stage for ecological interactions; ecology defines the selection that drives evolution.
 2. **Ecology and human society shape each other**, top to bottom.
 3. **Ecology connects to many disciplines** across the physical, life, and social sciences. Ecological ideas can be applied in whatever field draws a student's primary interest.
 
-Topics span the breadth of ecology: from genetics and physiology, to populations, to communities, to ecosystems and landscapes, to global.
-
-By the end of the course, students should be able to describe the breadth and structure of ecology as a discipline, recognize ecological principles at work in the world around them, and understand how ecology can be applied to societal and global challenges.
+Ecology is exciting because it interacts with so many other disciplines and applications!

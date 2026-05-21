@@ -1,0 +1,27 @@
+---
+title: "maxentcpp: a C++ implementation of MaxEnt for species distribution modeling"
+slug: maxentcpp
+category: software
+order: 27
+home: false
+card-size: narrow
+card-thumb-label: "maxentcpp"
+card-summary: "maxentcpp: a C++ implementation of MaxEnt for species distribution modeling"
+card-detail: |
+  R package by Reuman lab postdoc Angel Robles Fernandez. A modern C++ reimplementation of the MaxEnt species-distribution-modeling algorithm (originally a Java tool).
+thumbnail: ""
+figure: ""
+figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
+---
+
+`maxentcpp` provides a C++17 reimplementation of the [MaxEnt](https://biodiversityinformatics.amnh.org/open_source/maxent/) species-distribution-modeling algorithm (Phillips et al.), which is widely used to estimate species geographic distributions from occurrence records and environmental covariates. The original MaxEnt tool is written in Java; `maxentcpp` reproduces the algorithm in modern C++ and exposes it to R through Rcpp.
+
+The package was developed by [Angel Robles Fernandez](../../../people.qmd#angel-robles). Moving the MaxEnt fit into a compiled C++ layer removes Java/R interop overhead. It is also usable as a standalone MaxEnt implementation from R.
+
+- Package website: <https://alrobles.github.io/maxentcpp/>
+- Source: <https://github.com/alrobles/maxentcpp>
+- CRAN: <https://cran.r-project.org/web/packages/maxentcpp/maxentcpp.pdf>
+
+People: [Angel Robles Fernandez](../../../people.qmd#angel-robles) 

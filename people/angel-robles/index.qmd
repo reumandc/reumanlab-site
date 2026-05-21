@@ -5,7 +5,11 @@ group: "current"
 order: 2
 email: "a474r867@ku.edu"
 photo: "angel-robles.jpg"
-links: []
+links:
+  - label: "Website"
+    url: "https://alrobles.github.io/"
+  - label: "GitHub"
+    url: "https://github.com/alrobles"
 blurb: |
   Angel researches species niche and distribution modelling using stochastic demography. His past work includes wildlife disease susceptibility, population genetics, and species interactions.
 ---

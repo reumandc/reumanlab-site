@@ -8,7 +8,7 @@ card-size: wide
 card-thumb-label: "CHMBE"
 card-summary: "CHMBE: Coastal-Heartland Marine Biology Exchange"
 card-detail: |
-  A ten-week NSF-funded summer Research Experience for Undergraduates that paired hands-on marine fieldwork at Woods Hole Oceanographic Institute (year 1) or the University of Virginia or UC Santa Barbara (year 2) with statistical-ecology training at KU. Dan co-directed the program with Tom Bell in year 1 and Max Castorani (UVA) and Kyle Emery (UCSB) in year 2. 
+  A ten-week NSF-funded summer Research Experience for Undergraduates that paired hands-on marine fieldwork at Woods Hole Oceanographic Institute (year 1) or the University of Virginia or UC Santa Barbara (year 2) with statistical-ecology training at KU. Dan co-created the program and co-directed it with Tom Bell in year 1 and Max Castorani (UVA) and Kyle Emery (UCSB) in year 2. 
 thumbnail: "thumb.jpg"
 figure: "pic.jpg"
 figure-caption: ""
@@ -16,7 +16,7 @@ figure-placement: "top"
 figure-size: 1.0
 ---
 
-The Coastal-Heartland Marine Biology Exchange (CHMBE) was an NSF-funded Research Experience for Undergraduates that Dan co-directed with Tom Bell (Woods Hole Oceanographic Institute) and Max Castorani (University of Virginia) and Kyle Emery (UC Santa Barbara). Each summer, 2–4 undergraduates spent ten weeks working across two institutions and one major scientific meeting (the Ecological Society of America meeting).
+The Coastal-Heartland Marine Biology Exchange (CHMBE) was an NSF-funded Research Experience for Undergraduates that Dan co-directed with Tom Bell (Woods Hole Oceanographic Institute) and Max Castorani (University of Virginia) and Kyle Emery (UC Santa Barbara). Each summer, 2–4 undergraduates spent ten weeks working across two institutions and one major scientific meeting (the Ecological Society of America meeting). It was a fun program. Maybe ina  future year we will re-implement it. 
 
 ## Program structure
 

@@ -1,0 +1,23 @@
+---
+title: "pomp: inference for partially observed Markov processes"
+slug: pomp
+category: software
+order: 30
+home: false
+card-size: narrow
+card-thumb-label: "pomp"
+card-summary: "pomp: inference for partially observed Markov processes"
+card-detail: |
+  An R package by Aaron King (University of Michigan) and collaborators for simulation- and likelihood-based inference on partially observed Markov process models. Widely used in ecology and epidemiology. Dan contributed in a minor way, but linking here because it is cool!
+thumbnail: ""
+figure: ""
+figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
+---
+
+`pomp` is a powerful and widely used R package for fitting and analyzing partially observed Markov process (POMP) models, with methods including particle filtering, iterated filtering, and other simulation-based inference. It is the work of Aaron King and collaborators at the University of Michigan; Dan contributed in a minor way. Linking here because it is cool!
+
+- CRAN: <https://cran.r-project.org/web/packages/pomp/index.html>
+
+People: Dan Reuman

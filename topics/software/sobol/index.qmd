@@ -1,0 +1,28 @@
+---
+title: "sobol: a fast implementation of Sobol sequences"
+slug: sobol
+category: software
+order: 26
+home: true
+card-size: narrow
+card-thumb-label: "sobol"
+card-summary: "sobol: a fast implementation of Sobol sequences"
+card-detail: |
+  R package by Reuman lab postdoc Angel Robles Fernandez. A fast implementation of Sobol low-discrepancy sequences, built to interoperate cleanly with `xsdm` for speed (but has other applications, of course).
+thumbnail: ""
+figure: ""
+figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
+---
+
+`sobol` provides a fast implementation of [Sobol sequences](https://en.wikipedia.org/wiki/Sobol_sequence) — low-discrepancy quasi-random sequences used for quasi-Monte Carlo integration, numerical sampling, and related tasks.
+
+The package was developed by [Angel Robles Fernandez](../../../people.qmd#angel-robles) to interoperate cleanly with [`xsdm`](../../research/xsdm/), where fast quasi-random sampling matters for fitting performance. It is also usable as a standalone Sobol-sequence generator.
+
+- CRAN: <https://cloud.r-project.org/web/packages/sobol/index.html>
+- Package website: <https://alrobles.github.io/sobol/>
+- Source: <https://github.com/alrobles/sobol>
+- Manual (R-universe): <https://cran.r-universe.dev/sobol/doc/manual.html>
+
+People: [Angel Robles Fernandez](../../../people.qmd#angel-robles)

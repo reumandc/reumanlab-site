@@ -3,9 +3,9 @@ title: "Teaching"
 banner: "banners/penguin.jpg"
 listing:
   - id: teaching-cards
-    contents: "topics/teaching/*/index.qmd"
+    contents: "topics/*/*/index.qmd"
     type: custom
-    template: _card-listing.ejs
+    template: _card-listing-teaching.ejs
     sort: "order asc"
     page-size: 100
     categories: false

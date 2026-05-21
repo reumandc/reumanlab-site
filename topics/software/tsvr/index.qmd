@@ -4,7 +4,7 @@ slug: tsvr
 category: software
 order: 5
 home: true
-card-size: wide
+card-size: narrow
 card-thumb-label: "tsvr"
 card-summary: "tsvr: timescale-specific variance ratios for community stability"
 card-detail: |
@@ -16,4 +16,15 @@ figure-placement: "top"
 figure-size: 1.0
 ---
 
-<!-- Software-page content to be drafted. -->
+The variance ratio is a classic quantity describing one view on whether a community
+demonstrates synchronous or compensatory dynamics. We developed a timescale-specific
+version, implemented it in `tsvr`, and showed what one can learn from a 
+timescale-specific approach (see reference below).
+
+- CRAN: <https://cran.r-project.org/web/packages/tsvr/index.html>
+- vignette: <https://cran.r-project.org/web/packages/tsvr/vignettes/tsvrvignette.pdf>
+- source: <https://github.com/reumandc/tsvr>
+
+L. Zhao, S. Wang, L.M. Hallett, A. Rypel, L.W. Sheppard, M.C.N. Castorani, L.G. Shoemaker, K.L. Cottingham, K. Suding, D.C. Reuman. 2020. A new variance ratio metric to detect the timescale of compensatory dynamics. Ecosphere 11, e03114. doi: 10.1002/ecs2.3114. 
+
+People: [Lei Zhao](../../../people.qmd#lei-zhao), Dan Reuman
