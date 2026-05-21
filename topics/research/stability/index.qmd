@@ -9,11 +9,19 @@ card-thumb-label: "stability"
 card-summary: "Collaborative: mechanisms of community stability"
 card-detail: |
   Diverse ecosystems tend to be more stable than species-poor ones. Working with collaborators, we study the mechanisms of this relationship and the effects of climate change on them.
-thumbnail: ""
+thumbnail: "DivStabIcon.png"
 figure: ""
 figure-caption: ""
 figure-placement: "top"
 figure-size: 1.0
 ---
 
-<!-- Research-page content to be drafted. -->
+It is well known that biodiversity promotes stability in various types of ecosystems. The mechanisms of this relationship are a hot topic of research. I have had the privilege of collaborating with some outstanding researchers working in this area in recent years, including former Reuman lab postdoc [Lei Zhao](../../../people.qmd#lei-zhao). We showed, for instance, that interspecific interactions are responsible for a relatively  small portion of this effect (Meng et al, 2025). And that a statistical-averaging mechanism seems to be more important than compensatory species dynamics (Zhao et al, 2022). We also demonstrated the importance of time series length in understanding these relationships (Luo et al, 2025).
+
+M. Luo, L.M. Hallett, D.C. Reuman, L. Shoemaker, L. Zhao, L. Jiang, M. Loreau, P.B. Reich, D. Tilman, S. Wang. 2025. Short time series obscure compensatory dynamics in ecological communities. Nature Ecology and Evolution 9, 1405-1413. doi: 10.1038/s41559-025-02757-w.
+
+B. Meng, M. Luo, M. Loreau, P. Hong, D. Craven, N. Eisenhauer, F. Isbell, M. Liang, D.C. Reuman, B. Wilsey, J. van Ruijven, L. Zhao, S. Wang. 2025. Stabilizing effects of biodiversity arise from species-specific dynamics rather than interspecific interactions. Nature Ecology and Evolution 9, 1837-1847. doi 10.1038/s41559-025-02787-4.  
+
+L. Zhao, S. Wang, R. Shen, Y. Gong, C. Wang, P. Hong, D.C. Reuman. 2022. Biodiversity stabilizes plant communities through statistical-averaging effects rather than compensatory dynamics. Nature Communications 13, 7804. doi: 10.1038/s41467-022-35514-9.
+
+People: [Lei Zhao](../../../people.qmd#lei-zhao), Dan Reuman

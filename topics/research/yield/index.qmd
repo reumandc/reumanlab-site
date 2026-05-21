@@ -9,11 +9,17 @@ card-thumb-label: "yield"
 card-summary: "High-resolution crop yield forecasting"
 card-detail: |
   We are building machine-learning models that make actionable mid-season yield forecasts at 20-meter resolution. Prototype models already explain more than 70% of out-of-sample yield variation.
-thumbnail: ""
-figure: ""
-figure-caption: ""
-figure-placement: "top"
-figure-size: 1.0
+thumbnail: "Fig1_part.png"
+figure: "Fig1.png"
+figure-caption: "Example predicted yield maps from our prototype models (left) compared to actual yield (right). These are out-of-sample predictions."
+figure-placement: "right"
+figure-size: 0.5
 ---
 
-<!-- Research-page content to be drafted. -->
+Precision agriculture is developing rapidly, and agricultural machinery now routinely collects a huge volume of high-resolution data on crop yields and other aspects of farming practice. These data are a valuable resource for informing farm management decisions about efficient use of land and field inputs (water, pesticides, fertilizer), and for maximizing crop yields and profitability—applied problems of great importance to the Kansas agricultural community. But the data are underutilized because they are so extensive and complex that farmers cannot take full advantage of them without special expertise and substantial time investment.
+
+At the same time, powerful machine learning (ML) methods now exist which may be able to harness these data to support improved farm management. The overall research problem we are undertaking is to use modern ML methods and the available data to: 1) construct and train product-grade ML models for predicting end-growing-season crop yield maps from mid-season vantage points, at 20m spatial resolution; 2) provide predictions to partner farms. Nutrient pollution and water overuse are major problems in Kansas, so our work addresses state priorities. The work is a collaboration with Jude Kastens (Kansas Applied Remote Sensing program at KU / TerraMetrics Agriculture), David Weiss (PhD student in the KU Department of Geography), Antonios Mamalakis (University of Virginia), [Chase Horner](../../../people.qmd#chase-horner), and several partner farms across Kansas.
+
+A proof-of-concept phase is funded by the Kansas Department of Agriculture (2025–2026). With two partner farms contributing more than 700 fields and over 140 million yield measurements to the training set, our first-generation models reach roughly $70\%$ $R^2$ at the 20-meter pixel level and $73\%$ $R^2$ at the whole-field level on out-of-sample corn harvest forecasts.
+
+People: [Chase Horner](../../../people.qmd#chase-horner), Dan Reuman

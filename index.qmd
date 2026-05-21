@@ -27,7 +27,7 @@ We use math, statistics, and computation to understand the dynamics of natural p
 :::
 
 ::: {.hero-followup}
-Including theory, merging theory with data, applicable work, and applied work.
+Bridging theory, data, applicable work, and applied work.
 :::
 :::
 :::

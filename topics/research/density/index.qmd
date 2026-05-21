@@ -9,11 +9,16 @@ card-thumb-label: "density"
 card-summary: "Sublinearity of density dependence"
 card-detail: |
   Population growth is primarily inhibited by processes other than resource depletion, leaving a sublinear signature across species.
-thumbnail: ""
-figure: ""
+thumbnail: "curves_thumb.png"
+figure: "curves.png"
 figure-caption: ""
 figure-placement: "top"
 figure-size: 1.0
 ---
 
-<!-- Research-page content to be drafted. -->
+Population growth slows as density increases. The precise nature of this slowdown sensitively influences species coexistence, biodiversity maintenance, population viability analysis and extinction risk, and resource management. One way the fundamental slowdown can be quantified is to plot per-capita growth rate against  population density. The shape of that relationship - specifically the growth decline happens most rapidly at low or high densities - turns out to be a crucial characterstic of growth. In emerging work, former Reuman lab postdoc [Onofrio Mazzarisi](../../../people.qmd#onofrio-mazzarisi) and a long list of collaborators identified discrepancies between empirical and theoretically predicted growth-density curves and used them to frame a theory that non-resource-related factors are much more important than previously recognized in limiting population growth. 
+
+O. Mazzarisi, R. Droghetti, H. Carmichael, L. Ciandrini, M.C. Lagomarsino, M. Dal Bello, L. Fant, G. Ghedini, J. Grilli, G. Yvon-Durocher, D.C. Reuman. Universal sublinear population growth density dependence unrelated to resource limitation. [Preprint.](https://www.biorxiv.org/content/10.64898/2025.12.30.697033v1)
+
+People: [Onofrio Mazzarisi](../../../people.qmd#onofrio-mazzarisi), Dan Reuman
+
