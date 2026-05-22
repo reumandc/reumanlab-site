@@ -1,0 +1,24 @@
+---
+title: "Predicting host-parasite interactions from different biodiversity dimensions through machine learning (seminar)"
+slug: host-parasite-ml-seminar
+category: teaching
+order: 60
+home: false
+card-size: narrow
+card-thumb-label: "host-parasite ML"
+card-summary: "Predicting host-parasite interactions with machine learning — a KBS Friday Seminar"
+card-detail: |
+  A talk by Reuman lab postdoc Angel Robles Fernandez in the Kansas Biological Survey Friday Seminar Series, on using machine learning to predict host-parasite interactions from different dimensions of biodiversity.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
+---
+
+A talk by Reuman lab postdoc [Angel Robles Fernandez](../../../people.qmd#angel-robles) in the Kansas Biological Survey Friday Seminar Series, on using machine learning to predict host-parasite interactions from different dimensions of biodiversity.
+
+- [Recording on YouTube](https://www.youtube.com/watch?v=BfMQ1tQlHu4&list=PLNOOSPjc9wKMRh-a5lOVMGmDZVyq5-B43&index=2&t=12s)
+- [The KBS seminar series](https://biosurvey.ku.edu/friday-ecology-seminars)
+
+People: [Angel Robles Fernandez](../../../people.qmd#angel-robles)
