@@ -24,4 +24,4 @@ student [Lawrence Hudson](../../../people.qmd#lawrence-hudson).
 
 L.N. Hudson, R. Emmerson, G. Jenkins, K. Layer, M.E. Ledger, D. Pichler, M. Thompson, E. O’Gorman, G. Woodward, D.C. Reuman. 2013. Cheddar – analysis and visualization of ecological communities in R. Methods in Ecology and Evolution 4, 99-104. doi: 10.1111/2041-210X.12005. Available open access.
 
-People: [Lawrence Hundson](../../../people.qmd#lawrence-hudson), Dan Reuman
+People: [Lawrence Hudson](../../../people.qmd#lawrence-hudson), Dan Reuman

@@ -10,10 +10,18 @@ card-summary: "Review: insights into synchrony through long-term data"
 card-detail: |
   We advocate strongly for the benefits of long-term ecological monitoring and large ecological datasets. This review highlights developments in studies of synchrony over the past 20 years and how they were enabled by long-term datasets.
 thumbnail: ""
-figure: ""
+figure: "p1.jpg"
 figure-caption: ""
-figure-placement: "top"
-figure-size: 1.0
+figure-placement: "right"
+figure-size: 0.6
 ---
 
-<!-- Research-page content to be drafted. -->
+Great strides have been made over the last 20 years in understanding: 1) the timescale structure of synchrony; 2) how to infer causes of synchrony in field systems; 3) changes through time in synchrony, including due to climate change; 4) the geography of synchrony; and 5) population-dynamic mechanisms that relate to synchrony. We review and synthesize some of the work that has realized these advances. Long-term monitoring of ecosystems is, in our view, crucially important for the development of modern ecology. Our main contention in this review is that long time series don't just incrementally improve what inferences are possible about ecosystems, the also frequently make possible the expansion of conceptual paradigms, taking ecology in new directions. We use synchrony advances to drive this theme. Many Reuman lab members and collaborators over the years were involved in this work. 
+
+D.C. Reuman, J.A. Walter, L.W. Sheppard, V.A. Karatayev, E.S. Kadiyala, A.C. Lohmann, T.L. Anderson, N.J. Coombs, K.J. Haynes, L.M. Hallett, M.C.N. Castorani. 2025. Insights into spatial synchrony enabled by long-term data. Ecology Letters 28, e70112. doi: 10.1111/ele.70112.
+
+People:  [Jon Walter](../../../people.qmd#jonathan-walter), [Lawrence Sheppard](../../../people.qmd#lawrence-sheppard), [Vadim Karatayev](../../../people.qmd#vadim-karatayev), [Ethan Kadiyala](../../../people.qmd#ethan-kadiyala), [Tom Anderson](../../../people.qmd#tom-anderson), [Nat Coombs](../../../people.qmd#nat-coombs), Dan Reuman 
+
+
+
+

@@ -57,4 +57,4 @@ T.L. Anderson, L.W. Sheppard, J.A. Walter, S.P. Hendricks, T.L. Levine, D.S. Whi
 
 ### People 
 
-[Lawrence Sheppard](../../../people.qmd#lawrence-sheppard), [Tom Anderson](../../../people.qmd#tom-anderson), [Jon Walter](../../../people.qmd#jon-walter), [Lei Zhao](lei-zhao), Dan Reuman 
+[Lawrence Sheppard](../../../people.qmd#lawrence-sheppard), [Tom Anderson](../../../people.qmd#tom-anderson), [Jon Walter](../../../people.qmd#jonathan-walter), [Lei Zhao](../../../people.qmd#lei-zhao), Dan Reuman

@@ -380,6 +380,14 @@ details.card > summary::marker { content: ""; }
   .card-row {
     flex-direction: column;
   }
+  /* In a column-direction parent, flex: 1 1 0 makes height flex-basis 0;
+     combined with overflow: hidden (which suppresses min-height: auto), cards
+     collapse to ~0 height and only their borders show. Size to content instead. */
+  details.card,
+  details.card.card-wide,
+  details.card.card-narrow {
+    flex: 0 0 auto;
+  }
 }
 
 /* === People page === */

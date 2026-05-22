@@ -1,0 +1,19 @@
+---
+title: "Inferences of causes of synchrony"
+slug: causes
+category: research
+order: 13.5
+home: false
+card-size: wide
+card-thumb-label: "causes"
+card-summary: "Inferences of causes of synchrony"
+card-detail: |
+  Several of the statistical approaches we have developed have helped improve our capacity to infer the causes of the synchrony of field populations, when adequate data are available.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
+---
+
+<!-- Research-page content to be drafted. -->

@@ -9,11 +9,28 @@ card-thumb-label: "cascades"
 card-summary: "Synchrony cascades across system boundaries"
 card-detail: |
   Former lab postdoc Jon Walter showed how synchrony can cascade across ecosystem boundaries and up food webs. Former lab postdoc Tom Anderson showed how synchrony cascades from environmental drivers to deer to deer-vehicle collisions.
-thumbnail: ""
-figure: ""
-figure-caption: ""
-figure-placement: "top"
-figure-size: 1.0
+thumbnail: "WesternGull.jpg"
+figure: "p5.jpg"
+figure-caption: "Schematic of the effects we documented. Taken from Walter et al., 2024, PNAS."
+figure-placement: "right"
+figure-size: 0.6
 ---
 
-<!-- Research-page content to be drafted. -->
+Spatial synchrony in the environmental drivers of population dynamics can 
+induce synchrony in the populations, through a process called the *Moran effect*.
+The Moran effect is now well known to be one of the main drivers of synchrony in field populations, thanks in part 
+to some of our earlier work that improved our capacity to statistically
+detect that Moran effects are happening and to infer the environmental drivers
+(see, e.g., [this](../causes/index.qmd) research page, as well as [wsyn](../../software/wsyn/index.qmd)). Working with several collaborators, 
+former Reuman lab postoc [Jon Walter](../../../people.qmd#jonathan-walter) 
+took this to the next level,
+showing that synchrony can also cascade across ecosystem boundaries
+through a Moran-like effect of resource subsidies. He showed that 
+synchrony cascades from kelp forests off the California coast to 
+beach communities based on kelp detritus, and then up the beach food web
+to influence sea bird synchrony. The team also included former Reuman lab postdocs
+[Lawrence Sheppard](../../../people.qmd#lawrence-sheppard) and [Vadim Karatayev](../../../people.qmd#vadim-karatayev). 
+
+J.A. Walter, K.A. Emery, J.E. Dugan, D.M. Hubbard, T.W. Bell, L.W. Sheppard, V.A. Karatayev, K.C. Cavanaugh, D.C. Reuman, M.C.N. Castorani. 2024. Spatial synchrony cascades across ecosystem boundaries and up food webs via resource subsidies. Proceedings of the National Academy of Sciences 121, e2310052120. doi: 10.1073/pnas.2310052120.
+
+People: [Jon Walter](../../../people.qmd#jonathan-walter), [Lawrence Sheppard](../../../people.qmd#lawrence-sheppard), [Vadim Karatayev](../../../people.qmd#vadim-karatayev), Dan Reuman

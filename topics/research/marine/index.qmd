@@ -9,11 +9,28 @@ card-thumb-label: "marine"
 card-summary: "Synchrony of marine fish populations"
 card-detail: |
   Climate change could amplify weak synchrony in large marine ecosystems. Former lab postdoc Vadim Karatayev studied marine fish populations using empirical dynamic models.
-thumbnail: ""
-figure: ""
-figure-caption: ""
-figure-placement: "top"
-figure-size: 1.0
+thumbnail: "Crab.jpg"
+figure: "p3.jpg"
+figure-caption: "Locations of populations studied (survey centroids). Taken from Karatayev et al., 2024, PNAS."
+figure-placement: "right"
+figure-size: 0.5
 ---
 
-<!-- Research-page content to be drafted. -->
+[Some of our earlier work](../climate/index.qmd) contributed to the current understanding 
+that changes in synchrony are another of the widespread ecological impacts of climate 
+change. Former Reuman lab postdoc [Vadim Karatayev](../../../people.qmd#vadim-karatayev) 
+(now on the faculty at the University of Maryland)
+took this topic to the next level by studying, and modelling using empirical dynamic models, 36 exploited marine fish 
+and invertebrate species up and down both coasts of North America. Population synchrony tends
+to be substantially weaker than the synchrony of the environmental drivers that
+produce it. The potential for future climate change to alter synchrony depends 
+on the mechanisms that produce this weakening effect. Vadim found that spatial 
+heterogeneity in population dynamics is what weakens synchrony on the West Coast,
+whereas gradients in average environmental conditions were more important for
+weakening East Coast synchrony. These differences suggested a greater potential
+for future climate change to increase synchrony on the East compared to the West Coast,
+possibly reducing metapopulation resilience there.  
+
+V.A. Karatayev, S.B. Munch, T.L. Rogers, D.C. Reuman. 2024. Climate change could amplify weak synchrony in large marine ecosystems. Proceedings of the National Academy of Sciences 122, e2404155121. doi: 10.1073/pnas.2404155121.
+
+People: [Vadim Karatayev](../../../people.qmd#vadim-karatayev), Dan Reuman
