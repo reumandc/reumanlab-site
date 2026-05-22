@@ -9,11 +9,21 @@ card-thumb-label: "drivers"
 card-summary: "A theory explaining how drivers of spatial synchrony interact"
 card-detail: |
   We developed a theory of interaction effects in Moran drivers of spatial synchrony, and tested it in plankton and kelp.
-thumbnail: ""
-figure: ""
-figure-caption: ""
-figure-placement: "top"
-figure-size: 1.0
+thumbnail: "p3.jpg"
+figure: "p8.jpg"
+figure-caption: "We used an amazing kelp dataset to test our theory. This shows the study region and some example time series. Taken from Reuman et al., 2023, Ecography."
+figure-placement: "right"
+figure-size: 0.66
 ---
 
-<!-- Research-page content to be drafted. -->
+Prior work from the lab (Sheppard et al., 2019; Castorani et al., 2022), led by [Lawrence Sheppard](../../../people.qmd#lawrence-sheppard) and Max Castorani, showed that distinct environmental drivers of synchrony can interact in unexpected ways. We developed a thorough timescale-specific theory of Moran interactions, tested and validated with data from kelp forests. 
+
+M.C.N. Castorani, T.W. Bell, J.A. Walter, D.C. Reuman, K.C. Cavanaugh, L.W. Sheppard. 2022. Disturbance and nutrients synchronize kelp forests across scales through interacting Moran effects. Ecology Letters 8, 1854-1868. doi 10.1111/ele.14066.
+
+D.C. Reuman, M.C.N. Castorani, K.C. Cavanaugh, L.W. Sheppard, J.A. Walter, T.W. Bell. 2023. How environmental drivers of spatial synchrony interact. Ecography 10, e06795. doi: 10.1111/ecog.06795.
+
+L.W. Sheppard, E.J. Defriez, P.C. Reid, D.C. Reuman. 2019. Synchrony is more than its top-down and climatic parts: interacting Moran effects on phytoplankton in British seas. PloS Computational Biology 15, e1006744. doi: 10.1371/journal.pcbi.1006744. 
+
+
+
+People:  [Lawrence Sheppard](../../../people.qmd#lawrence-sheppard), [Jon Walter](../../../people.qmd#jonathan-walter), Dan Reuman

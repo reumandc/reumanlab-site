@@ -538,6 +538,31 @@ details.card > summary::marker { content: ""; }
   }
 }
 
+/* === Footer ===
+   Two Quarto defaults conspire to leave a large gap above the footer on short
+   pages (especially noticeable on Publications):
+   1) `.quarto-container { min-height: calc(100vh - 132px) }` stretches the
+      content container to nearly the full viewport.
+   2) `.page-rows-contents` defines a 2-row CSS Grid where the first row uses
+      `1fr` (grows to fill the tall container) and the second row has a 60px
+      minimum, so even without (1) there's a 60px residual gap.
+   Override both. */
+.quarto-container {
+  min-height: 0 !important;
+}
+.page-rows-contents {
+  grid-template-rows: auto !important;
+}
+
+/* Tighten .nav-footer itself too — its default min-height: 3.5em and
+   0.5rem top/bottom padding add a smaller secondary gap above the footer
+   text. Increase these values to push the footer further from the content. */
+footer.footer .nav-footer {
+  min-height: 1.75em;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
 /* Compact one-line-per-person layout for past masters / past undergrads. */
 .person-compact {
   display: block;

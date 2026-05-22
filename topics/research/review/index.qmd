@@ -9,7 +9,7 @@ card-thumb-label: "review"
 card-summary: "Review: insights into synchrony through long-term data"
 card-detail: |
   We advocate strongly for the benefits of long-term ecological monitoring and large ecological datasets. This review highlights developments in studies of synchrony over the past 20 years and how they were enabled by long-term datasets.
-thumbnail: ""
+thumbnail: "thumb.png"
 figure: "p1.jpg"
 figure-caption: ""
 figure-placement: "right"
