@@ -24,6 +24,4 @@ D.C. Reuman, M.C.N. Castorani, K.C. Cavanaugh, L.W. Sheppard, J.A. Walter, T.W. 
 
 L.W. Sheppard, E.J. Defriez, P.C. Reid, D.C. Reuman. 2019. Synchrony is more than its top-down and climatic parts: interacting Moran effects on phytoplankton in British seas. PloS Computational Biology 15, e1006744. doi: 10.1371/journal.pcbi.1006744. 
 
-
-
 People:  [Lawrence Sheppard](../../../people.qmd#lawrence-sheppard), [Jon Walter](../../../people.qmd#jonathan-walter), Dan Reuman

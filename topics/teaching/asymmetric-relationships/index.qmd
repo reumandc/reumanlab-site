@@ -1,0 +1,23 @@
+---
+title: "The importance of asymmetric relationships (seminar)"
+slug: asymmetric-relationships
+category: teaching
+order: 62
+home: false
+card-size: narrow
+card-thumb-label: "asymmetric-relationships"
+card-summary: "The importance of asymmetric relationships — seminar"
+card-detail: |
+  A talk by Reuman, given at the University of Oregon and elsewhere.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
+---
+
+A talk by Reuman on relating to our work on [asymmetric tail associations in ecology](../../research/tails/).
+
+- [Recording on YouTube](https://www.youtube.com/watch?v=vc_hZoWCzTI)
+
+People: Dan Reuman

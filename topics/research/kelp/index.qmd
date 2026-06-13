@@ -9,11 +9,39 @@ card-thumb-label: "kelp"
 card-summary: "Drivers of synchrony in giant kelp forests"
 card-detail: |
   A long-term project studying synchrony in giant kelp across thousands of km of coastline revealed the environmental and dispersive drivers of kelp synchrony.
-thumbnail: ""
-figure: ""
+thumbnail: "GrowingKelp.jpg"
+figure: "GrowingKelp.jpg"
 figure-caption: ""
-figure-placement: "top"
-figure-size: 1.0
+figure-placement: "right"
+figure-size: 0.5
 ---
 
-<!-- Research-page content to be drafted. -->
+A large group of us was funded for several years by the National Science Foundation
+to study spatial synchrony in canopy forming kelp off the West Coast of the USA (and, later,
+elsewhere, as well). Tom Bell (Woods Hole Oceanographic Institution) and Kyle Cavanaugh
+(UCLA) put together an [astounding ongoing dataset](https://www.tomwbell.net/data.html) on giant kelp 
+dynamics by figuring out how to identify kelp canopy from space. The data span decades, 
+are now worldwide, have quarterly-or-better temporal resolution and 30m spatial resolution,
+and are accompanied by data sets on kelp drivers. We used [Reuman lab statistical methods](../../software/wsyn/) and our [geographic](../geography/) and [time- and timescale-specific](../timescale/) approaches
+to [inferences of the drivers of synchrony](../causes/)
+to determine the nature, drivers, and ecological consequences of kelp synchrony in California kelp ecosystems, 
+as well as the contribution of dispersal to kelp synchrony. The project also led 
+to spinoff and related projects on a [general theory of interactions between synchrony drivers](../drivers/), applications to kelp of our ideas on [asymmetric tail associations in ecology](../tails/), [cross-system cascades of synchrony](../cascades/), [changing synchrony in exploited fish and invertbrates](../marine/), and a [major review](../review/) on synchrony and the importance of long-term data for ecology.
+
+D.C. Reuman, J.A. Walter, L.W. Sheppard, V.A. Karatayev, E.S. Kadiyala, A.C. Lohmann, T.L. Anderson, N.J. Coombs, K.J. Haynes, L.M. Hallett, M.C.N. Castorani. 2025. Insights into spatial synchrony enabled by long-term data. Ecology Letters 28, e70112. doi: 10.1111/ele.70112. 
+
+V.A. Karatayev, S.B. Munch, T.L. Rogers, D.C. Reuman. 2024. Climate change could amplify weak synchrony in large marine ecosystems. Proceedings of the National Academy of Sciences 122, e2404155121. doi: 10.1073/pnas.2404155121.
+
+M. Liang, T. Lamy, D.C. Reuman, S. Wang, T.W. Bell, K.C. Cavanaugh, M.C.N. Castorani. 2024. A marine heatwave changes the stabilizing effects of biodiversity in kelp forests. Ecology 105, e4288. doi: 10.1002/ecy.4288.
+
+M.S. Wanner, J.A. Walter, D.C. Reuman, T.W. Bell, M.C.N. Castorani. 2024. Dispersal synchronizes giant kelp forests. Ecology 105, e4270. doi: 10.1002/ecy.4270.
+
+J.A. Walter, K.A. Emery, J.E. Dugan, D.M. Hubbard, T.W. Bell, L.W. Sheppard, V.A. Karatayev, K.C. Cavanaugh, D.C. Reuman, M.C.N. Castorani. 2024. Spatial synchrony cascades across ecosystem boundaries and up food webs via resource subsidies. Proceedings of the National Academy of Sciences 121, e2310052120. doi: 10.1073/pnas.2310052120.
+
+D.C. Reuman, M.C.N. Castorani, K.C. Cavanaugh, L.W. Sheppard, J.A. Walter, T.W. Bell. 2023. How environmental drivers of spatial synchrony interact. Ecography 10, e06795. doi: 10.1111/ecog.06795.
+
+M.C.N. Castorani, T.W. Bell, J.A. Walter, D.C. Reuman, K.C. Cavanaugh, L.W. Sheppard. 2022. Disturbance and nutrients synchronize kelp forests across scales through interacting Moran effects. Ecology Letters 8, 1854-1868. doi 10.1111/ele.14066.
+
+J.A. Walter, M.C.N. Castorani, T.W. Bell, L.W. Sheppard, K.C. Cavanaugh, D.C. Reuman. 2022. Tail-dependent spatial synchrony arises from nonlinear driver-response relationships. Ecology Letters 25, 1189-1201. doi: 10.1111/ele.13991.
+
+People: [Lawrence Sheppard](../../../people.qmd#lawrence-sheppard), [Jon Walter](../../../people.qmd#jonathan-walter), [Ethan Kadiyala](../../../people.qmd#ethan-kadiyala), [Vadim Karatayev](../../../people.qmd#vadim-karatayev), [Nat Coombs](../../../people.qmd#nat-coombs), Dan Reuman

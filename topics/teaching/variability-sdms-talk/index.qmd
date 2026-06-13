@@ -1,0 +1,25 @@
+---
+title: "Estimating how climatic variability influences where on Earth a species is found (seminar)"
+slug: variability-sdms
+category: teaching
+order: 61
+home: false
+card-size: narrow
+card-thumb-label: "variability-sdms"
+card-summary: "Estimating how climatic variability influences where on Earth a species is found — seminar"
+card-detail: |
+  A talk by Reuman, given at the University of Chicago, Kansas Biological Survey, and elsewhere.
+thumbnail: ""
+figure: ""
+figure-caption: ""
+figure-placement: "top"
+figure-size: 1.0
+---
+
+A talk by Reuman on using [xsdm](../../research/xsdm/) to assess the contribution of interannual
+variability to a species geographic range. See also [this preprint](https://www.biorxiv.org/content/10.1101/2024.10.30.621023v2).
+
+- [Recording on YouTube](https://www.youtube.com/watch?v=cQOCamZTrIg&list=PLNOOSPjc9wKOJpELzF-dVLmLjNBsIAUOH&index=2)
+- [The KBS seminar series](https://biosurvey.ku.edu/friday-ecology-seminars)
+
+People: Dan Reuman
