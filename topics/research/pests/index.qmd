@@ -2,18 +2,28 @@
 title: "Collaborative: synchrony in pests and disease vectors"
 slug: pests
 category: research
-order: 12
+order: 15
 home: false
 card-size: narrow
 card-thumb-label: "pests"
 card-summary: "Collaborative: synchrony in pests and disease vectors"
 card-detail: |
   With collaborators, we have studied synchrony in mosquitoes and lepidopteran crop pests.
-thumbnail: ""
-figure: ""
-figure-caption: ""
-figure-placement: "top"
-figure-size: 1.0
+thumbnail: "aphid1.jpg"
+figure: "NCC_cover.jpg"
+figure-caption: "Cover of the issue where the old aphid paper was published (Sheppard et al, 2016)"
+figure-placement: "right"
+figure-size: 0.3
 ---
 
-<!-- Research-page content to be drafted. -->
+One of our earliest papers on synchrony, which led to the development of [methods](../../software/wsyn/) which became one of the mainstays of our approach to synchrony, used aphid crop pests as an important model system. Since then, several additional collaborative papers have examined synchrony of pests, including lepidopteral crop pests and mosquito vectors of human and zoonotic diseases. 
+
+L.P. Campbell, A.M. Bauer, Y. Tavares, R.P. Guralnick, D.C. Reuman. 2024. Broadscale spatial synchrony in a West Nile virus mosquito vector across multiple timescales. Scientific Reports 14, 12479. doi: 10.1038/s41598-024-62384-6. 
+
+L.P. Campbell, D.C. Reuman, J. Lutomiah, A.T. Peterson, K.J. Linthicum, S.C. Britch, A. Anyamba, R. Sang. 2019. Predicting abundances of Aedes mcintoshi, a primary rift valley fever virus mosquito vector. PLoS One 14, e0226617. doi: 10.1371/journal.pone.0226617.
+
+J.A. Walter, L.W. Sheppard, P.D. Venugopal, D.C. Reuman, G. Dively, J.F. Tooker, D.M. Johnson. 2019. Weather and regional crop composition variation drive spatial synchrony of lepidopteran agricultural pests. Ecological Entomology 45, 573-582. doi: 10.1111/een.12830.
+
+L.W. Sheppard*, J. Bell, R. Harrington, D.C. Reuman*. 2016. Changes in large-scale climate alter spatial synchrony of aphid pests. Nature Climate Change 6, 610-613. doi: 10.1038/nclimate2881.
+
+People: [Lawrence Sheppard](../../../people.qmd#lawrence-sheppard), [Jon Walter](../../../people.qpd#jonathan-walter), Dan Reuman

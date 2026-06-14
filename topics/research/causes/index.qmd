@@ -16,4 +16,16 @@ figure-placement: "top"
 figure-size: 1.0
 ---
 
-<!-- Research-page content to be drafted. -->
+Inference of the causes of synchrony in field systems was classically considered to be a hard problem, but now it is considered pretty doable when sufficient data are available. We made contributions that helped contribute to that paradigm shift, including helping build [wavelet-based approaches](../../software/wsyn/), originally developed for our aphid and marine plankton investigations (references below, see also [here](../timescale/)), and geographic approaches (reference below, see also [here](../geography)). We have since applied both those approaches to understand synchrony across a diversity of systems. Our [review](../review/) on synchrony and the conceptual benefits of long time series has content on this topic. 
+
+L.W. Sheppard, J. Bell, R. Harrington, D.C. Reuman. 2016. Changes in large-scale climate alter spatial synchrony of aphid pests. Nature Climate Change 6, 610-613. doi: 10.1038/nclimate2881.
+
+L.W. Sheppard, E.J. Defriez, P.C. Reid, D.C. Reuman. 2019. Synchrony is more than its top-down and climatic parts: interacting Moran effects on phytoplankton in British seas. PloS Computational Biology 15, e1006744. doi: 10.1371/journal.pcbi.1006744. 
+
+D.C. Reuman, M.C.N. Castorani, K.C. Cavanaugh, L.W. Sheppard, J.A. Walter, T.W. Bell. 2023. How environmental drivers of spatial synchrony interact. Ecography 10, e06795. doi: 10.1111/ecog.06795.
+
+J.A. Walter, L.W. Sheppard, T.L. Anderson, J.H. Kastens, O.N. Bjørnstad, A.M. Liebhold, D.C. Reuman. 2017. The geography of spatial synchrony. Ecology Letters 20, 801-814. doi: 10.1111/ele.12782.
+
+T.L. Anderson, J.A. Walter, T.D. Levine, S.P. Hendricks, K.L. Johnston, D.S. White, D.C. Reuman. 2018. Using geography to infer the importance of dispersal for the synchrony of freshwater plankton. Oikos 127, 403-414. doi: 10.1111/oik.04705.
+
+People: [Lawrence Sheppard](../../../people.qmd#lawrence-sheppard), [Jon Walter](../../../people.qpd#jonathan-walter), [Tom Anderson](../../../people.qpd#tom-anderson), Dan Reuman

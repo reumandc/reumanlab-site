@@ -9,11 +9,21 @@ card-thumb-label: "sturgeon"
 card-summary: "Telemetry and sturgeon movements"
 card-detail: |
   We have worked with large telemetry datasets to study the movements of sturgeon and other fish species in California rivers.
-thumbnail: ""
-figure: ""
-figure-caption: ""
-figure-placement: "top"
-figure-size: 1.0
+thumbnail: "GreenSturgeon-thumb.jpg"
+figure: "GreenSturgeon.jpg"
+figure-caption: "GreenSturgeon.jpg"
+figure-placement: "right"
+figure-size: 0.5
 ---
 
-<!-- Research-page content to be drafted. -->
+Synchrony is not just about population dynamics. We have also studied synchrony and related topics in the context of animal movement, specifically of fish in California rivers. Publications so far have concerned sturgeon (see below). Reuman lab PhD student [Nat Coombs](../../../people/qmd#nat-coombs) continues this work, along with a mixture of other topics.  
+
+J. Walter, G. Singer, D.C. Reuman, S. Colborne, L.W. Sheppard, D. O’Donnell, N. Coombs, E. Tracy, M. Johnston, E. Miller, A. Steel, J. Kelly, N. Fangue, A. Rypel. 2026. Habitat use differences mediate population threat exposure in white sturgeon. Environmental Biology of Fishes 109, 51. doi: 10.1007/s10641-026-01819-7. 
+
+S.F. Colborne, L.W. Sheppard, D.R. O’Donnell, D.C. Reuman, M. Thomas, J.A. Walter, G.P. Singer, J.T. Kelly, A.L. Rypel. 2022. Intraspecific variation in migration timing of green sturgeon in the Sacramento River system. Ecosphere 13, e4139. doi: 10.1002/ecs2.4139. 
+
+S.F. Colborne, L.W. Sheppard, D.R. O’Donnell, D.C. Reuman, J.A. Walter, G.P. Singer, 
+J.T. Kelly, M.J. Thomas, A.L. Rypel. 2023. [California WaterBlog:](https://californiawaterblog.com/) [Green sturgeon in California: Hidden lives revealed from long-term tracking.](https://californiawaterblog.com/2023/02/12/green-sturgeon-in-california-hidden-lives-revealed-from-long-term-tracking/)
+
+People: [Jon Walter](../../../people.qmd#jonathan-walter), [Lawrence Sheppard](../../../people.qmd#lawrence-sheppard), [Scott Colborne](../../../people.qmd#scott-colborne), [Danny O'Donnell](../../../people.qmd#daniel-odonnell), [Nat Coombs](../../../people.qmd#nat-coombs),
+Dan Reuman
