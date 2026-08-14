@@ -9,11 +9,57 @@ card-thumb-label: "timescale"
 card-summary: "Timescale structure of synchrony"
 card-detail: |
   One long-term theme of studies of synchrony in the lab has been the timescale structure of synchrony. Paying attention to timescale structure allows for much improved inferences of causes and understanding of consequences of synchrony.
-thumbnail: ""
+thumbnail: "ExampleWPMF.jpg"
 figure: ""
 figure-caption: ""
 figure-placement: "top"
 figure-size: 1.0
 ---
 
-<!-- Research-page content to be drafted. -->
+Approaches to synchrony which take a timescale-specific approach, i.e., breaking signals
+into component oscillations which occur on different timescales, have facilitated
+major advances in our understanding of the causes, mechanisms, and consequences synchrony. 
+We have made contributions to
+timescale-specific approaches to synchrony by developing and applying wavelet and 
+Fourier analysis and modelling tools. A timescale-specific approach is one of 
+main sets of tools in the toolkit the Reuman lab uses to study synchrony. 
+Our [review](../review/) on synchrony has a decent narrative introduction to this approach.
+The wavelet tools we developed are covered [here](../../software/wsyn/).
+
+M. Luo, L.M. Hallett, D.C. Reuman, L. Shoemaker, L. Zhao, L. Jiang, M. Loreau, P.B. Reich, D. Tilman, S. Wang. 2025. Short time series obscure compensatory dynamics in ecological communities. Nature Ecology and Evolution 9, 1405-1413. doi: 10.1038/s41559-025-02757-w.
+
+D.C. Reuman, J.A. Walter, L.W. Sheppard, V.A. Karatayev, E.S. Kadiyala, A.C. Lohmann, T.L. Anderson, N.J. Coombs, K.J. Haynes, L.M. Hallett, M.C.N. Castorani. 2025. Insights into spatial synchrony enabled by long-term data. Ecology Letters 28, e70112. doi: 10.1111/ele.70112. 
+
+L.P. Campbell, A.M. Bauer, Y. Tavares, R.P. Guralnick, D.C. Reuman. 2024. Broadscale spatial synchrony in a West Nile virus mosquito vector across multiple timescales. Scientific Reports 14, 12479. doi: 10.1038/s41598-024-62384-6.
+
+J.A. Walter, K.A. Emery, J.E. Dugan, D.M. Hubbard, T.W. Bell, L.W. Sheppard, V.A. Karatayev, K.C. Cavanaugh, D.C. Reuman*, M.C.N. Castorani. 2024. Spatial synchrony cascades across ecosystem boundaries and up food webs via resource subsidies. Proceedings of the National Academy of Sciences 121, e2310052120. doi: 10.1073/pnas.2310052120.
+
+D.C. Reuman, M.C.N. Castorani, K.C. Cavanaugh, L.W. Sheppard, J.A. Walter, T.W. Bell. 2023. How environmental drivers of spatial synchrony interact. Ecography 10, e06795. doi: 10.1111/ecog.06795.
+
+M.C.N. Castorani, T.W. Bell, J.A. Walter, D.C. Reuman, K.C. Cavanaugh, L.W. Sheppard. 2022. Disturbance and nutrients synchronize kelp forests across scales through interacting Moran effects. Ecology Letters 8, 1854-1868. doi 10.1111/ele.14066.
+
+L.G. Shoemaker, L.M. Hallett, L. Zhao, D.C. Reuman, S. Wang, K.L. Cottingham, R.J. Hobbs, M.C.N. Castorani, A.L. Downing, J.C. Dudney, S.B. Fey, L.A. Gherardi, N. Lany, C. Portales-Reyes, A. Rypel, L.W. Sheppard, J.A. Walter, K.N. Suding. 2022. The long and the short of it: Mechanism of synchronous and compensatory dynamics across temporal scales. Ecology 103, e3650. doi: 10.1002/ecy.3650.
+
+M. Luo, D.C. Reuman, L.M. Hallett, L.G. Shoemaker, L. Zhao, M.C.N. Castorani, J.C. Dudney, L. Gherardi, A. Rypel, L.W. Sheppard, J.A. Walter, S. Wang. 2021. Timescale-dependent effects of dispersal on population synchrony and variability: implications for metapopulation studies. Oikos 130, 1762-1772. doi: 10.1111/oik.08298.
+
+T.L. Anderson, L.W. Sheppard, J.A. Walter, R.E. Rolley, D.C. Reuman. 2021. Synchronous effects produce cycles in deer populations and deer-vehicle collisions. Ecology Letters 24, 337-347. doi: 10.1111/ele.13650.
+
+L.W. Sheppard, B. Mechtley, J.A. Walter, D.C. Reuman. 2020. Self-organizing cicada choruses respond to the local sound and light environment. Ecology and Evolution 10, 4471-4482. doi: 10.1002/ece3.6213.
+
+L. Zhao, S. Wang, L.M. Hallett, A. Rypel, L.W. Sheppard, M.C.N. Castorani, L.G. Shoemaker, K.L. Cottingham, K. Suding, D.C. Reuman. 2020. A new variance ratio metric to detect the timescale of compensatory dynamics. Ecosphere 11, e03114. doi: 10.1002/ecs2.3114.
+
+J.A. Walter, L.W. Sheppard, P.D. Venugopal, D.C. Reuman, G. Dively, J.F. Tooker, D.M. Johnson. 2019. Weather and regional crop composition variation drive spatial synchrony of lepidopteran agricultural pests. Ecological Entomology 45, 573-582. doi: 10.1111/een.12830.
+
+L.W. Sheppard, E.J. Defriez, P.C. Reid, D.C. Reuman. 2019. Synchrony is more than its top-down and climatic parts: interacting Moran effects on phytoplankton in British seas. PloS Computational Biology 15, e1006744. doi: 10.1371/journal.pcbi.1006744.
+
+T.L. Anderson, L.W. Sheppard, J.A. Walter, S.P. Hendricks, T.L. Levine, D.S. White, D.C. Reuman. 2019. The dependence of synchrony on timescale and geography in freshwater plankton. Limnology and Oceanography 64, 483-502. doi: 10.1002/lno.11054.
+
+R.A. Desharnais, D.C. Reuman, R.F. Costantino, J.E. Cohen. 2018. Temporal scale of environmental correlations affects ecological synchrony. Ecology Letters 21, 1800-1811. doi: 10.1111/ele.13155.
+
+L.W. Sheppard, P.C. Reid, D.C. Reuman. 2017. Rapid surrogate testing of wavelet coherences. European Physical Journal, Nonlinear and Biomedical Physics 5, 1. doi: 10.1051/epjnbp/2017000.
+
+E. Defriez, L.W. Sheppard, P.C. Reid, D.C. Reuman. 2016. Climate-change-related regime shifts have altered spatial synchrony of plankton dynamics in the North Sea. Global Change Biology 22, 2069-2080. doi: 10.1111/gcb.13229.
+
+L.W. Sheppard, J. Bell, R. Harrington, D.C. Reuman. 2016. Changes in large-scale climate alter spatial synchrony of aphid pests. Nature Climate Change 6, 610-613. doi: 10.1038/nclimate2881.
+
+People: Most members of the Reuman lab have touched this theme at some point, but [Lawrence Sheppard](../../../people.qmd#lawrence-sheppard) played the most central role.

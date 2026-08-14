@@ -9,11 +9,41 @@ card-thumb-label: "geography"
 card-summary: "Geography of synchrony"
 card-detail: |
   One long-term theme of studies of synchrony in the lab has been its geographic structure. Paying attention to the geography of synchrony allows for much improved inferences of causes and understanding of consequences of synchrony.
-thumbnail: ""
-figure: ""
-figure-caption: ""
-figure-placement: "top"
-figure-size: 1.0
+thumbnail: "p6_cropped.jpg"
+figure: "p6_cropped.jpg"
+figure-caption: "The geography of synchrony of a vegetation index across the continental USA. This is Fig. 2a from Walter et al (2017)."
+figure-placement: "right"
+figure-size: 0.5
 ---
 
-<!-- Research-page content to be drafted. -->
+One of the classic ways of studying synchrony involved plotting correlations
+between population time series against the geographic distances between the 
+locations in which the time series were measured. This is a geographic 
+approach to synchrony, because geographic distance is involved, but it turns
+out that the geography of synchrony is much more reticulate than just a distance
+dependence. And the geography of synchrony can be used to make inferences about the
+[causes](../causes/) of synchrony and to better understand its consequences. We have 
+made contributions to studies of the geography of synchrony, starting with two papers
+by [Emma Defriez](../../../people.qmd#emma-defriez) documenting the global geography
+of synchrony of vegetation (Defriez et al, 2017a, b), and a synthetic review 
+by [Jon Walter](../../../people.qmd#jonathan-walter) (Walter et al, 2017).
+Geographic approaches became one of the main tools in the toolkit the Reuman lab uses to 
+study synchrony. 
+
+M.S. Wanner, J.A. Walter, D.C. Reuman, T.W. Bell, M.C.N. Castorani. 2024. Dispersal synchronizes giant kelp forests. Ecology 105, e4270. doi: 10.1002/ecy.4270.
+
+J.A. Walter, M.C.N. Castorani, T.W. Bell, L.W. Sheppard, K.C. Cavanaugh, D.C. Reuman. 2022. Tail-dependent spatial synchrony arises from nonlinear driver-response relationships. Ecology Letters 25, 1189-1201. doi: 10.1111/ele.13991.
+
+J.A. Walter, L.M. Hallett, L.W. Sheppard, T.L. Anderson, L. Zhao, R.J. Hobbs, K.N. Suding, D.C. Reuman. 2020. Micro-scale geography of synchrony in a serpentine plant community. Journal of Ecology 109, 750-762. doi: 10.1111/1365-2745.13503.
+
+T.L. Anderson, L.W. Sheppard, J.A. Walter, S.P. Hendricks, T.L. Levine, D.S. White, D.C. Reuman. 2019. The dependence of synchrony on timescale and geography in freshwater plankton. Limnology and Oceanography 64, 483-502. doi: 10.1002/lno.11054.
+
+T.L. Anderson, J.A. Walter, T.D. Levine, S.P. Hendricks, K.L. Johnston, D.S. White, D.C. Reuman. 2018. Using geography to infer the importance of dispersal for the synchrony of freshwater plankton. Oikos 127, 403-414. doi: 10.1111/oik.04705.
+
+J.A. Walter, L.W. Sheppard, T.L. Anderson, J.H. Kastens, O.N. Bjørnstad, A.M. Liebhold, D.C. Reuman. 2017. The geography of spatial synchrony. Ecology Letters 20, 801-814. doi: 10.1111/ele.12782.
+
+E.J. Defriez, D.C. Reuman. 2017. A global geography of synchrony for terrestrial vegetation. Global Ecology and Biogeography 26, 878-888. doi: 10.1111/geb.12595.
+
+E.J. Defriez, D.C. Reuman. 2017. A global geography of synchrony for marine phytoplankton. Global Ecology and Biogeography 26, 867-877. doi: 10.1111/geb.12594.
+
+People: Most members of the Reuman lab have touched this theme at some point, but [Jon Walter](../../../people.qmd#jonathan-walter) played a central role.
