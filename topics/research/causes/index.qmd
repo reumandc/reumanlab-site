@@ -28,4 +28,4 @@ J.A. Walter, L.W. Sheppard, T.L. Anderson, J.H. Kastens, O.N. Bjørnstad, A.M. L
 
 T.L. Anderson, J.A. Walter, T.D. Levine, S.P. Hendricks, K.L. Johnston, D.S. White, D.C. Reuman. 2018. Using geography to infer the importance of dispersal for the synchrony of freshwater plankton. Oikos 127, 403-414. doi: 10.1111/oik.04705.
 
-People: [Lawrence Sheppard](../../../people.qmd#lawrence-sheppard), [Jon Walter](../../../people.qpd#jonathan-walter), [Tom Anderson](../../../people.qpd#tom-anderson), Dan Reuman
+People: [Lawrence Sheppard](../../../people.qmd#lawrence-sheppard), [Jon Walter](../../../people.qmd#jonathan-walter), [Tom Anderson](../../../people.qmd#tom-anderson), Dan Reuman

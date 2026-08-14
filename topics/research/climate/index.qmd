@@ -16,4 +16,19 @@ figure-placement: "top"
 figure-size: 1.0
 ---
 
-<!-- Research-page content to be drafted. -->
+A number of papers have been published now showing that changes in synchrony 
+through altered Moran effects may be 
+another of the major impacts of climate change, including at least one review
+(Hansen et al, 2020, Ecography). We contributed to the literature on climate-related 
+changes in synchrony, including an early paper (Sheppard et al, 2016) attributing
+changes in the synchrony of aphid pests to altered Moran effects associated with 
+a change in the North Atlantic Oscillation. Our [review](../review/) on synchrony 
+has a decent narrative introduction to this area of research.
+
+D.C. Reuman, J.A. Walter, L.W. Sheppard, V.A. Karatayev, E.S. Kadiyala, A.C. Lohmann, T.L. Anderson, N.J. Coombs, K.J. Haynes, L.M. Hallett, M.C.N. Castorani. 2025. Insights into spatial synchrony enabled by long-term data. Ecology Letters 28, e70112. doi: 10.1111/ele.70112. 
+
+L.W. Sheppard, J. Bell, R. Harrington, D.C. Reuman. 2016. Changes in large-scale climate alter spatial synchrony of aphid pests. Nature Climate Change 6, 610-613. doi: 10.1038/nclimate2881.
+
+E. Defriez, L.W. Sheppard, P.C. Reid, D.C. Reuman. 2016. Climate-change-related regime shifts have altered spatial synchrony of plankton dynamics in the North Sea. Global Change Biology 22, 2069-2080. doi: 10.1111/gcb.13229.
+
+People: [Lawrence Sheppard](../../../people.qmd#lawrence-sheppard), [Jon Walter](../../../people.qmd#jonathan-walter), [Emma Defriez](../../../people.qmd#emma-defriez), Dan Reuman
